@@ -1,3 +1,17 @@
+/** This is a modified version from the compat-wireless-3.2.5-1 
+* in order to serve as an 80211 stub for the FINS Framework
+* It is not a redistribution of the driver 
+* it is just an experimental version for experiments in wireless networking 
+* research. WE ARE NOT RESPONSIBLE FOR ANY DAMAGE RESULTING FROM USING THIS VERSION
+* AND WE DONT ADVISE USING IT . 
+* ALL THE LICENSE ISSUES APPLIED ON   the compat-wireless-3.2.5-1 source code or generated binary
+* also apply on this modified code
+* AGAIN THIS IS NOT A REDSTRIBUTION AND WE RECOMMEND NOT TO USE IT
+* IT IS ONLY FOR EXPERIMENTAL RESEARCH
+* Author: Abdallah Abdallah April 2013
+*/
+
+
 
 Linux Wireless compatibility package
 =====================================
