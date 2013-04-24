@@ -1,0 +1,37 @@
+<map id="G" name="G">
+<area shape="rect" href="$xmit_8h.html#aefb22eec00cb7bd01d34221e000950f3" title="b43_txhdr_size" alt="" coords="387,84,496,113"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="189,59,253,88"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="193,5,249,35"/>
+<area shape="rect" href="$main_8c.html#adb2d09d5180d74a048194743ed67302b" title="b43warn" alt="" coords="187,112,256,141"/>
+<area shape="rect" href="$pio_8c.html#abebd5e53cda61a3afc121c7960d71abb" title="pio_tx_frame" alt="" coords="173,216,269,245"/>
+<area shape="rect" href="$pio_8c.html#ab4ed2bb1e11ab81b414e054caf738a8c" title="select_queue_by_priority" alt="" coords="139,269,304,299"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="393,19,489,48"/>
+<area shape="rect" href="$xmit_8c.html#a84b031e3a96da2c0ab26f0a29c7f2e31" title="b43_generate_txhdr" alt="" coords="373,505,509,535"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="624,321,747,351"/>
+<area shape="rect" href="$pio_8c.html#ae3184685e5cb17b4605c5ae8acf0509e" title="generate_cookie" alt="" coords="384,559,499,588"/>
+<area shape="rect" href="$pio_8c.html#a1a2fb3a4be55e5665d9f4f942d8e5599" title="pio_tx_frame_2byte_queue" alt="" coords="353,137,529,167"/>
+<area shape="rect" href="$pio_8c.html#ae6e14ffe577a827ce45baa583e9f5107" title="pio_tx_frame_4byte_queue" alt="" coords="353,216,529,245"/>
+<area shape="rect" href="$xmit_8c.html#accb968175e0f8c88cb9d8f26af5a3773" title="b43_calc_fallback_rate" alt="" coords="608,428,763,457"/>
+<area shape="rect" href="$xmit_8c.html#a771f3bd4a9c50e682e6973b512b87a01" title="b43_generate_plcp_hdr" alt="" coords="608,583,763,612"/>
+<area shape="rect" href="$main_8h.html#a27a86b54bd5b2d68c2a06f6be070d351" title="b43_is_ofdm_rate" alt="" coords="883,635,1005,664"/>
+<area shape="rect" href="$xmit_8c.html#a24cc15752ebf2c2a1d794e5edc2747f3" title="b43_plcp_get_ratecode_cck" alt="" coords="852,492,1036,521"/>
+<area shape="rect" href="$xmit_8c.html#ac51df2daff6dbbaeed19eb9f640a86da" title="b43_plcp_get_ratecode_ofdm" alt="" coords="848,569,1040,599"/>
+<area shape="rect" href="$xmit_8c.html#a1163ef700dd264cc534de215cdd23826" title="b43_generate_tx_phy_ctl1" alt="" coords="599,740,772,769"/>
+<area shape="rect" href="$main_8c.html#ad0aa00930c54d51c0615978f79ba798e" title="b43_ieee80211_antenna_sanitize" alt="" coords="579,687,792,716"/>
+<area shape="rect" href="$xmit_8h.html#a74a3337729e40a1708ac1d72ecef1a59" title="b43_kidx_to_fw" alt="" coords="629,375,741,404"/>
+<area shape="rect" href="$main_8h.html#a39ad12948444260bb47cac232b54e86d" title="b43_is_cck_rate" alt="" coords="1097,687,1212,716"/>
+<area shape="rect" href="$xmit_8c.html#ad000f2f5e114f8479a2bf26d8093a2a9" title="b43_tx_legacy_rate_phy_ctl_ent" alt="" coords="840,688,1048,717"/>
+<area shape="rect" href="$xmit_8h.html#ac60cfecd9f84a5fa74c67a667b308d85" title="b43_new_kidx_api" alt="" coords="880,401,1008,431"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="867,348,1021,377"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="1109,137,1200,167"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1109,296,1200,325"/>
+<area shape="rect" href="$pio_8h.html#a197cf126658f5c549d96787a34da2860" title="b43_piotx_read16" alt="" coords="624,7,747,36"/>
+<area shape="rect" href="$pio_8h.html#a18a19ad6c96686d21f3e3243fcec4349" title="b43_piotx_write16" alt="" coords="881,84,1007,113"/>
+<area shape="rect" href="$pio_8c.html#aace0c97e3189c16700b3731618509513" title="tx_write_2byte_queue" alt="" coords="612,111,759,140"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="900,7,988,36"/>
+<area shape="rect" href="$b43_8h.html#a054d9edbcc218537d77cafaec03f50e5" title="b43_block_write" alt="" coords="887,137,1001,167"/>
+<area shape="rect" href="$pio_8h.html#adc26fb414c58fff7f9ff8dd70085be18" title="b43_piotx_read32" alt="" coords="624,268,747,297"/>
+<area shape="rect" href="$pio_8h.html#a59fb43e33c8b80688e73e1db6d2a7953" title="b43_piotx_write32" alt="" coords="881,191,1007,220"/>
+<area shape="rect" href="$pio_8c.html#aae7ca895808a9c184f0956d313990784" title="tx_write_4byte_queue" alt="" coords="612,164,759,193"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="900,244,988,273"/>
+</map>

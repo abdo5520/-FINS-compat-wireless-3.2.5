@@ -1,0 +1,1 @@
+cmd_/home/fins1/compat-wireless-3.2.5-1/drivers/bcma/bcma.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-030200-generic/scripts/module-common.lds --build-id  -o /home/fins1/compat-wireless-3.2.5-1/drivers/bcma/bcma.ko /home/fins1/compat-wireless-3.2.5-1/drivers/bcma/bcma.o /home/fins1/compat-wireless-3.2.5-1/drivers/bcma/bcma.mod.o

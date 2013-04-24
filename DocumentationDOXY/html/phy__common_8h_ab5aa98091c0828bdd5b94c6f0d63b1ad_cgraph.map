@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8c.html#a9078cc08815f04ffb2ca7d5e7eaf071c" title="b43_mac_enable" alt="" coords="189,189,309,219"/>
+<area shape="rect" href="$main_8c.html#a555504fbafc3537b275e563515f7f6d4" title="b43_mac_suspend" alt="" coords="184,293,315,323"/>
+<area shape="rect" href="$debugfs_8c.html#a2d8cac4c4fae4116d2248d9b5c3a782b" title="b43_debug" alt="" coords="411,5,493,35"/>
+<area shape="rect" href="$main_8c.html#ad37797ca2e138c27c2dde2ffc37677a9" title="b43_power_saving_ctl_bits" alt="" coords="364,189,540,219"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="605,267,693,296"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="589,149,709,179"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="960,163,1051,192"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="424,293,480,323"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="791,163,879,192"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="757,109,912,139"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="601,320,697,349"/>
+</map>

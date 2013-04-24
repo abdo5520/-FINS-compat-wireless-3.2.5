@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8h.html#a27a86b54bd5b2d68c2a06f6be070d351" title="b43_is_ofdm_rate" alt="" coords="245,5,368,35"/>
+<area shape="rect" href="$xmit_8c.html#a24cc15752ebf2c2a1d794e5edc2747f3" title="b43_plcp_get_ratecode_cck" alt="" coords="215,59,399,88"/>
+<area shape="rect" href="$xmit_8c.html#ac51df2daff6dbbaeed19eb9f640a86da" title="b43_plcp_get_ratecode_ofdm" alt="" coords="211,112,403,141"/>
+<area shape="rect" href="$main_8h.html#a39ad12948444260bb47cac232b54e86d" title="b43_is_cck_rate" alt="" coords="452,5,567,35"/>
+</map>

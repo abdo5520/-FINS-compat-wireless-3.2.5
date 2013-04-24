@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" href="$leds_8c.html#aed3223cac0b27ed7242edf22cbcccc9a" title="b43_led_get_sprominfo" alt="" coords="180,5,335,35"/>
+<area shape="rect" href="$leds_8c.html#abd78aa424a0c14e5d5e90d21c00d4c7a" title="b43_leds_work" alt="" coords="204,59,311,88"/>
+<area shape="rect" href="$leds_8c.html#af42966e0b474906ae98c60bd913f972a" title="b43_map_led" alt="" coords="208,112,307,141"/>
+<area shape="rect" href="$leds_8c.html#a86a5c319a56cad9e7950864af9ab585b" title="b43_led_update" alt="" coords="387,59,499,88"/>
+<area shape="rect" href="$leds_8c.html#a4cd9eda4516ab7b35d9fd9a43044e7a3" title="b43_led_turn_off" alt="" coords="571,5,688,35"/>
+<area shape="rect" href="$leds_8c.html#a1b81853328485de440e1a9d01b60f2c6" title="b43_led_turn_on" alt="" coords="572,59,687,88"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="761,59,849,88"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="760,5,851,35"/>
+<area shape="rect" href="$leds_8c.html#a661435da6f503c0ae1dc10c4d29f5b9b" title="b43_register_led" alt="" coords="385,164,500,193"/>
+<area shape="rect" href="$main_8c.html#adb2d09d5180d74a048194743ed67302b" title="b43warn" alt="" coords="595,112,664,141"/>
+<area shape="rect" href="$leds_8c.html#a9065b28a52adc9a9c593f366fdc59610" title="b43_led_brightness_set" alt="" coords="551,165,708,195"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="757,112,853,141"/>
+</map>

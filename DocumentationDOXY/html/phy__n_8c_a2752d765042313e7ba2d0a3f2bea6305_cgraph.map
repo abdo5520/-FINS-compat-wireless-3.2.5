@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$tables__nphy_8c.html#a3b8ab9b2d95165e2492e89a0bd23f431" title="b43_ntab_read_bulk" alt="" coords="269,5,405,35"/>
+<area shape="rect" href="$tables__nphy_8c.html#a3e226f2de9b9f1bd73a5af6357e412b1" title="b43_ntab_write_bulk" alt="" coords="268,59,407,88"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="457,5,559,35"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="456,59,560,88"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="608,5,768,35"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="816,5,880,35"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="644,59,732,88"/>
+</map>

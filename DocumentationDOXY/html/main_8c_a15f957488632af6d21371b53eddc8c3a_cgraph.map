@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8c.html#a93f87a58d242c88aae5fc94f9e000f13" title="b43_wireless_core_exit" alt="" coords="569,193,724,223"/>
+<area shape="rect" href="$main_8c.html#ae947440565784c64c9037d68ac5bba50" title="b43_wireless_core_stop" alt="" coords="149,379,309,408"/>
+<area shape="rect" href="$b43_8h.html#a923bed0b5c7caecca6b946a983da8845" title="hw_to_b43_wl" alt="" coords="179,432,280,461"/>
+<area shape="rect" href="$b43_8h.html#ae81ec87adaa8062e52b56fec0fb1a079" title="b43_bus_may_powerdown" alt="" coords="785,192,956,221"/>
+<area shape="rect" href="$main_8c.html#a494e8e0b68774b183032a270c0262d89" title="b43_chip_exit" alt="" coords="820,32,921,61"/>
+<area shape="rect" href="$b43_8h.html#af44dbafe4f4511170e18d845cb74ec46" title="b43_device_disable" alt="" coords="803,299,939,328"/>
+<area shape="rect" href="$dma_8c.html#aa569f23264a9ec2a97a61549ae8fca2b" title="b43_dma_free" alt="" coords="819,245,923,275"/>
+<area shape="rect" href="$pio_8c.html#ae1c2f2217527d196bc7b932b97a61fc1" title="b43_pio_free" alt="" coords="823,85,919,115"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="827,403,915,432"/>
+<area shape="rect" href="$main_8c.html#a34ef4f8bf0cf48c82422194f0f2af6db" title="b43_rng_exit" alt="" coords="823,139,919,168"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1236,507,1327,536"/>
+<area shape="rect" href="$main_8c.html#af6976b229ab555a77dfd5aa66bea9f34" title="b43_gpio_cleanup" alt="" coords="1024,5,1149,35"/>
+<area shape="rect" href="$phy__common_8c.html#a8b1642c1ef86314f2089117ca975bc31" title="b43_phy_exit" alt="" coords="1037,59,1136,88"/>
+<area shape="rect" href="$main_8c.html#a704d4753bd3a9a3a48daa1ac12521a9e" title="b43_ssb_gpio_dev" alt="" coords="1217,5,1345,35"/>
+<area shape="rect" href="$b43_8h.html#adfddea5171b8d4507d59f741a9476073" title="b43_using_pio_transfers" alt="" coords="1005,179,1168,208"/>
+<area shape="rect" href="$bus_8h.html#ab76ba7aab7a37cadacec861b4ee002cb" title="b43_bus_host_is_sdio" alt="" coords="359,245,508,275"/>
+<area shape="rect" href="$leds_8c.html#a355030cba2feb989d23223568b2b2a7f" title="b43_leds_exit" alt="" coords="383,612,484,641"/>
+<area shape="rect" href="$main_8c.html#a555504fbafc3537b275e563515f7f6d4" title="b43_mac_suspend" alt="" coords="368,507,499,536"/>
+<area shape="rect" href="$sdio_8c.html#afca7c8d817d46710a573de6ec1cf60a3" title="b43_sdio_free_irq" alt="" coords="372,299,495,328"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="401,352,465,381"/>
+<area shape="rect" href="$leds_8c.html#a4cd9eda4516ab7b35d9fd9a43044e7a3" title="b43_led_turn_off" alt="" coords="588,664,705,693"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="1043,560,1131,589"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="825,715,916,744"/>
+<area shape="rect" href="$main_8c.html#ad37797ca2e138c27c2dde2ffc37677a9" title="b43_power_saving_ctl_bits" alt="" coords="559,507,735,536"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="619,611,675,640"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="811,507,931,536"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="1009,507,1164,536"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="823,611,919,640"/>
+</map>

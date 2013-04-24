@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="273,5,396,35"/>
+<area shape="rect" href="$tables__phy__lcn_8c.html#a37acc133386d4ac0458d407b929ee136" title="b43_lcntab_write_bulk" alt="" coords="504,84,653,113"/>
+<area shape="rect" href="$tables__phy__lcn_8c.html#a2d3a7abd6c47b424bd146e9cc1a668d1" title="b43_phy_lcn_clean_papd_comp_table" alt="" coords="215,109,455,139"/>
+<area shape="rect" href="$tables__phy__lcn_8c.html#a77072254a6a7c305a6531e683496781e" title="b43_phy_lcn_load_rfpower" alt="" coords="248,269,421,299"/>
+<area shape="rect" href="$tables__phy__lcn_8c.html#af47668ad969a68165d3f601822b7ea12" title="b43_phy_lcn_load_tx_gain_tab" alt="" coords="235,163,435,192"/>
+<area shape="rect" href="$tables__phy__lcn_8c.html#a8f97a960ec282f14ab6ba7055f4df5a9" title="b43_phy_lcn_rewrite_rfpower_table" alt="" coords="223,216,447,245"/>
+<area shape="rect" href="$tables__phy__lcn_8c.html#ad33372a7ab180d9b8c0750de3d5d01d0" title="b43_phy_lcn_upload_static_tables" alt="" coords="225,323,444,352"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="307,376,363,405"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="701,163,805,192"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="853,216,1013,245"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="889,163,977,192"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1061,216,1125,245"/>
+<area shape="rect" href="$tables__phy__lcn_8c.html#af6e94c3ad14cf44a407a9d44513aa8b6" title="b43_lcntab_write" alt="" coords="520,163,637,192"/>
+<area shape="rect" href="$tables__phy__lcn_8c.html#a553d4323d2c3c60cdf91cd97deee8649" title="b43_lcntab_read" alt="" coords="521,216,636,245"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="703,216,804,245"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="531,376,627,405"/>
+</map>

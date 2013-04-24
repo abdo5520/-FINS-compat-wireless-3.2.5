@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#ae81ec87adaa8062e52b56fec0fb1a079" title="b43_bus_may_powerdown" alt="" coords="212,5,383,35"/>
+<area shape="rect" href="$main_8c.html#a494e8e0b68774b183032a270c0262d89" title="b43_chip_exit" alt="" coords="247,59,348,88"/>
+<area shape="rect" href="$b43_8h.html#af44dbafe4f4511170e18d845cb74ec46" title="b43_device_disable" alt="" coords="229,112,365,141"/>
+<area shape="rect" href="$dma_8c.html#aa569f23264a9ec2a97a61549ae8fca2b" title="b43_dma_free" alt="" coords="245,165,349,195"/>
+<area shape="rect" href="$pio_8c.html#ae1c2f2217527d196bc7b932b97a61fc1" title="b43_pio_free" alt="" coords="249,219,345,248"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="253,272,341,301"/>
+<area shape="rect" href="$main_8c.html#a34ef4f8bf0cf48c82422194f0f2af6db" title="b43_rng_exit" alt="" coords="249,325,345,355"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="252,379,343,408"/>
+<area shape="rect" href="$main_8c.html#af6976b229ab555a77dfd5aa66bea9f34" title="b43_gpio_cleanup" alt="" coords="451,45,576,75"/>
+<area shape="rect" href="$phy__common_8c.html#a8b1642c1ef86314f2089117ca975bc31" title="b43_phy_exit" alt="" coords="464,99,563,128"/>
+<area shape="rect" href="$main_8c.html#a704d4753bd3a9a3a48daa1ac12521a9e" title="b43_ssb_gpio_dev" alt="" coords="644,45,772,75"/>
+<area shape="rect" href="$b43_8h.html#adfddea5171b8d4507d59f741a9476073" title="b43_using_pio_transfers" alt="" coords="432,179,595,208"/>
+</map>

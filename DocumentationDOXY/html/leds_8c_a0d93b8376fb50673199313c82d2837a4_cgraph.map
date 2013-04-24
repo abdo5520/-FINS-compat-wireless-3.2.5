@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$rfkill_8c.html#a0b1ad225d0bd05249bcbd450c564ea5f" title="b43_is_hw_radio_enabled" alt="" coords="153,5,321,35"/>
+<area shape="rect" href="$leds_8c.html#aed3223cac0b27ed7242edf22cbcccc9a" title="b43_led_get_sprominfo" alt="" coords="160,59,315,88"/>
+<area shape="rect" href="$leds_8c.html#a4cd9eda4516ab7b35d9fd9a43044e7a3" title="b43_led_turn_off" alt="" coords="179,112,296,141"/>
+<area shape="rect" href="$leds_8c.html#a1b81853328485de440e1a9d01b60f2c6" title="b43_led_turn_on" alt="" coords="180,165,295,195"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="372,5,460,35"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="372,165,460,195"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="371,112,461,141"/>
+</map>

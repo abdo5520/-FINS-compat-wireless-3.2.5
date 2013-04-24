@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__common_8c.html#a2efed98acfe2e35f6199b0e608e4a18c" title="b43_switch_channel" alt="" coords="149,72,288,101"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="191,139,247,168"/>
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="337,5,460,35"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="339,59,459,88"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="337,112,460,141"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="543,32,631,61"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="509,85,664,115"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="712,85,803,115"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="541,139,632,168"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="351,165,447,195"/>
+</map>

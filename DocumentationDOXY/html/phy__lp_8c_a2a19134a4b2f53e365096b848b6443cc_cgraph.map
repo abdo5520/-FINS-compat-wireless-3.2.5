@@ -1,0 +1,35 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__lp_8c.html#ada6fbedb65cde4d7b9994175c7ec8b5e" title="lpphy_baseband_rev0_1_init" alt="" coords="1071,267,1255,296"/>
+<area shape="rect" href="$phy__lp_8c.html#ac29bd3913ded677d7f44bf4bc512f038" title="lpphy_baseband_rev2plus_init" alt="" coords="1065,396,1260,425"/>
+<area shape="rect" href="$phy__lp_8c.html#af6014b2353ab5831819938bebce43202" title="lpphy_table_init" alt="" coords="195,656,307,685"/>
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="1336,581,1459,611"/>
+<area shape="rect" href="$main_8c.html#a3f3a1d36e1882927e495fa890efbbe97" title="b43_hf_read" alt="" coords="1352,109,1443,139"/>
+<area shape="rect" href="$main_8c.html#abbb7dc97d3d48c3504e1c35b366407ad" title="b43_hf_write" alt="" coords="1351,5,1444,35"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a4510b42ad9b05b874ec0bb516cfb1fe2" title="b43_lptab_write" alt="" coords="1341,528,1453,557"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="1537,372,1641,401"/>
+<area shape="rect" href="$phy__common_8c.html#a7f6accd2de2c16a2ef2e36e4098c28ce" title="b43_phy_copy" alt="" coords="1537,59,1641,88"/>
+<area shape="rect" href="$phy__common_8c.html#af989c6b9b6c21865492deca5a70754d4" title="b43_phy_mask" alt="" coords="1343,320,1452,349"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="1539,217,1640,247"/>
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="1333,267,1461,296"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="1349,213,1445,243"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="1529,112,1649,141"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="1735,321,1823,351"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="1701,85,1856,115"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1907,85,1997,115"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="1528,5,1651,35"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="1733,5,1824,35"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="1699,244,1859,273"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1920,244,1984,273"/>
+<area shape="rect" href="$phy__lp_8c.html#a4c905d90da2dd74c07ca78d6d1db3d9c" title="lpphy_save_dig_flt_state" alt="" coords="1315,424,1480,453"/>
+<area shape="rect" href="$phy__lp_8c.html#aae3808ca30452758f3c135c36d38d9a4" title="b43_lpphy_op_get_default_chan" alt="" coords="803,605,1011,635"/>
+<area shape="rect" href="$phy__lp_8c.html#a8c683969295ad30dcf3d0795929a2933" title="channel2freq_lp" alt="" coords="383,816,495,845"/>
+<area shape="rect" href="$phy__lp_8c.html#ab8cd66489d03da459762fccafbd489cc" title="lpphy_adjust_gain_table" alt="" coords="359,763,519,792"/>
+<area shape="rect" href="$tables__lpphy_8c.html#ababf6795c48fad00b99e2e5dc554a47b" title="lpphy_init_tx_gain_table" alt="" coords="359,552,519,581"/>
+<area shape="rect" href="$tables__lpphy_8c.html#adf4883620fadc8c167e463ba1372379b" title="lpphy_rev0_1_table_init" alt="" coords="360,709,517,739"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a8e89d6bc10e2ef095ed1bb4f22a16441" title="lpphy_rev2plus_table_init" alt="" coords="355,656,523,685"/>
+<area shape="rect" href="$tables__lpphy_8c.html#ae6336133eb23c4dd79e732ff2252c603" title="b43_lptab_write_bulk" alt="" coords="592,709,733,739"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a215ce5320a216922c67f35340c75d055" title="lpphy_write_gain_table_bulk" alt="" coords="571,501,755,531"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a40b5e83394192af160433baba64ba386" title="lpphy_write_gain_table" alt="" coords="831,501,983,531"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a234cfc26debda9ef5e3d6c5d12683e03" title="lpphy_rev0_1_write_gain_table" alt="" coords="1064,449,1261,479"/>
+<area shape="rect" href="$tables__lpphy_8c.html#ac324a66231be7542926f713c18365e09" title="lpphy_rev2plus_write_gain_table" alt="" coords="1059,503,1267,532"/>
+</map>

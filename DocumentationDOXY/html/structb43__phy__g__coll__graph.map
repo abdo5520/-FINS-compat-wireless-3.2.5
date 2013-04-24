@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$structb43__bbatt.html" title="b43_bbatt" alt="" coords="5,5,83,35"/>
+<area shape="rect" href="$structb43__bbatt__list.html" title="b43_bbatt_list" alt="" coords="59,101,160,131"/>
+<area shape="rect" href="$structb43__rfatt.html" title="b43_rfatt" alt="" coords="260,5,332,35"/>
+<area shape="rect" href="$structb43__rfatt__list.html" title="b43_rfatt_list" alt="" coords="184,101,280,131"/>
+<area shape="rect" href="$structb43__txpower__lo__control.html" title="b43_txpower_lo_control" alt="" coords="91,197,248,227"/>
+</map>

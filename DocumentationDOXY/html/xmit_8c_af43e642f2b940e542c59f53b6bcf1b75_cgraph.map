@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" href="$debugfs_8c.html#a5b7487047e27566f10a941f1cc681586" title="b43_debugfs_log_txstat" alt="" coords="201,59,361,88"/>
+<area shape="rect" href="$dma_8c.html#a6edf1ab4532356478322d3d9b59a9d4a" title="b43_dma_handle_txstatus" alt="" coords="195,219,368,248"/>
+<area shape="rect" href="$phy__common_8c.html#a0e494029d77178ed9d6f7816d186c551" title="b43_phy_txpower_check" alt="" coords="200,272,363,301"/>
+<area shape="rect" href="$pio_8c.html#a51fcc5d3334fb0cd1a22e7364f525ee0" title="b43_pio_handle_txstatus" alt="" coords="199,112,364,141"/>
+<area shape="rect" href="$b43_8h.html#adfddea5171b8d4507d59f741a9476073" title="b43_using_pio_transfers" alt="" coords="200,325,363,355"/>
+<area shape="rect" href="$debugfs_8c.html#a2d8cac4c4fae4116d2248d9b5c3a782b" title="b43_debug" alt="" coords="453,272,536,301"/>
+<area shape="rect" href="$xmit_8c.html#a09d364e33075dce853a3bede0a204a63" title="b43_fill_txstatus_report" alt="" coords="417,59,572,88"/>
+<area shape="rect" href="$xmit_8h.html#ad8e37541141f78894c75c76b6a7428f7" title="b43_get_priv_tx_info" alt="" coords="424,325,565,355"/>
+<area shape="rect" href="$xmit_8h.html#aefb22eec00cb7bd01d34221e000950f3" title="b43_txhdr_size" alt="" coords="440,112,549,141"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="621,404,685,433"/>
+<area shape="rect" href="$dma_8c.html#a9c8ae23096537edebfe1f4144aafb607" title="free_slots" alt="" coords="456,483,533,512"/>
+<area shape="rect" href="$dma_8c.html#a93293a60e05d89d5147fd204c2e1fbe4" title="next_slot" alt="" coords="457,165,532,195"/>
+<area shape="rect" href="$dma_8c.html#ac6a6fc65fbdf4c4094f790b7628d6ffe" title="parse_cookie" alt="" coords="445,429,544,459"/>
+<area shape="rect" href="$dma_8c.html#ad4296bce0ba3d1d30bbda051dee9f766" title="unmap_descbuffer" alt="" coords="431,219,559,248"/>
+<area shape="rect" href="$pio_8c.html#a958d4b91ff0a58399f2fb93b5bd313e7" title="parse_cookie" alt="" coords="445,5,544,35"/>
+</map>

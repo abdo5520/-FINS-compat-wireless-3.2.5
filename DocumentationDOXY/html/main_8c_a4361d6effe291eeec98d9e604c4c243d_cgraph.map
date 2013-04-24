@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#a8ffc594f98434da9340205066a4b188f" title="b43_is_mode" alt="" coords="192,5,291,35"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="197,59,285,88"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="196,112,287,141"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="196,165,287,195"/>
+</map>

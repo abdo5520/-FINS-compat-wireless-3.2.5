@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$debugfs_8c.html#abe820131ef050e12fa72c1cd987383c4" title="b43_add_dynamic_debug" alt="" coords="221,5,389,35"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="273,59,337,88"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="277,112,333,141"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="437,112,533,141"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__common_8c.html#aa0d4025c0760e0d0bd1529c62d1fff87" title="b43_radio_mask" alt="" coords="212,5,327,35"/>
+<area shape="rect" href="$phy__common_8c.html#a5b0ff7aded31f6b198da210e42aa4cf2" title="b43_radio_read" alt="" coords="215,59,324,88"/>
+<area shape="rect" href="$phy__common_8c.html#a2d71a0cd69c04c73275668125a89651e" title="b43_radio_set" alt="" coords="219,112,320,141"/>
+<area shape="rect" href="$phy__common_8c.html#ac00fdf75c09fab7057076c10253170b0" title="b43_radio_write" alt="" coords="213,165,325,195"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="376,112,536,141"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="584,112,648,141"/>
+</map>

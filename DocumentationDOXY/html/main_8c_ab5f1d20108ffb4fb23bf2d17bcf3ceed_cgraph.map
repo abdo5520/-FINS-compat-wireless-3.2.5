@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" href="$xmit_8c.html#a771f3bd4a9c50e682e6973b512b87a01" title="b43_generate_plcp_hdr" alt="" coords="247,85,401,115"/>
+<area shape="rect" href="$main_8c.html#a0c971b5abd907c5855f4cb0eecb9265d" title="b43_ram_write" alt="" coords="272,191,376,220"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="263,269,385,299"/>
+<area shape="rect" href="$main_8h.html#a27a86b54bd5b2d68c2a06f6be070d351" title="b43_is_ofdm_rate" alt="" coords="485,5,608,35"/>
+<area shape="rect" href="$xmit_8c.html#a24cc15752ebf2c2a1d794e5edc2747f3" title="b43_plcp_get_ratecode_cck" alt="" coords="455,59,639,88"/>
+<area shape="rect" href="$xmit_8c.html#ac51df2daff6dbbaeed19eb9f640a86da" title="b43_plcp_get_ratecode_ofdm" alt="" coords="451,112,643,141"/>
+<area shape="rect" href="$main_8h.html#a39ad12948444260bb47cac232b54e86d" title="b43_is_cck_rate" alt="" coords="692,5,807,35"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="503,165,591,195"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="704,243,795,272"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="469,269,624,299"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="501,323,592,352"/>
+</map>

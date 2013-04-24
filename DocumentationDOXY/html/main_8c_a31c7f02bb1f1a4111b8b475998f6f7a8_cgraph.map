@@ -1,0 +1,35 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8c.html#a4361d6effe291eeec98d9e604c4c243d" title="b43_adjust_opmode" alt="" coords="167,144,303,173"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="412,248,500,277"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="832,299,923,328"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1024,517,1115,547"/>
+<area shape="rect" href="$main_8c.html#af6976b229ab555a77dfd5aa66bea9f34" title="b43_gpio_cleanup" alt="" coords="172,429,297,459"/>
+<area shape="rect" href="$main_8c.html#aa99dd5f1dbef97a2562a65c3d66a2f3b" title="b43_gpio_init" alt="" coords="187,363,283,392"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="833,505,921,535"/>
+<area shape="rect" href="$main_8c.html#af4799d32b5a9a83ba1ce2c0a887dca5c" title="b43_mac_phy_clock_set" alt="" coords="152,533,317,563"/>
+<area shape="rect" href="$main_8c.html#a86e7065764bd36a28718e4ef68d3c003" title="b43_mgmtframe_txantenna" alt="" coords="367,608,545,637"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="612,657,735,687"/>
+<area shape="rect" href="$phy__common_8c.html#a01698c806ccc56ae4600c72b735f53d8" title="b43_phy_init" alt="" coords="188,816,281,845"/>
+<area shape="rect" href="$main_8c.html#acec083200c4a2e66446102cbf2aebeb6" title="b43_request_firmware" alt="" coords="383,1329,529,1359"/>
+<area shape="rect" href="$main_8c.html#a4b298a54d4f9badd7b71d4d58782a7e9" title="b43_upload_initvals" alt="" coords="167,869,303,899"/>
+<area shape="rect" href="$main_8c.html#aac35c700157f189409cd40b37af8d036" title="b43_upload_microcode" alt="" coords="157,763,312,792"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="203,973,267,1003"/>
+<area shape="rect" href="$b43_8h.html#a8ffc594f98434da9340205066a4b188f" title="b43_is_mode" alt="" coords="407,43,505,72"/>
+<area shape="rect" href="$main_8c.html#a704d4753bd3a9a3a48daa1ac12521a9e" title="b43_ssb_gpio_dev" alt="" coords="392,453,520,483"/>
+<area shape="rect" href="$main_8c.html#a1340c637c6c5904aaa04c8e33c1483cf" title="b43_antenna_to_phyctl" alt="" coords="596,604,751,633"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="613,711,733,740"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="800,684,955,713"/>
+<area shape="rect" href="$phy__common_8c.html#a2efed98acfe2e35f6199b0e608e4a18c" title="b43_switch_channel" alt="" coords="387,816,525,845"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="849,1228,905,1257"/>
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="612,764,735,793"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="1021,1175,1117,1204"/>
+<area shape="rect" href="$main_8c.html#a711d1a4808c5ad79e811396ea0ae54a7" title="b43_print_fw_helptext" alt="" coords="600,1175,747,1204"/>
+<area shape="rect" href="$main_8c.html#a93f47e482095ce857317d5bd353a7fb4" title="b43_try_request_fw" alt="" coords="607,1380,740,1409"/>
+<area shape="rect" href="$main_8c.html#adb2d09d5180d74a048194743ed67302b" title="b43warn" alt="" coords="843,1175,912,1204"/>
+<area shape="rect" href="$main_8c.html#a7ef5357ca5988a880ac48e35b271f23b" title="b43_do_request_fw" alt="" coords="811,1407,944,1436"/>
+<area shape="rect" href="$main_8c.html#ad33cbdca6bd11daffd5fc885282412fd" title="b43_release_firmware" alt="" coords="804,1353,951,1383"/>
+<area shape="rect" href="$main_8c.html#aea9a2a6f819b13fe33be1ad6daa0fd67" title="b43_do_release_fw" alt="" coords="1004,1380,1135,1409"/>
+<area shape="rect" href="$main_8c.html#ac86248532ef481f745b64a15dd9e82a8" title="b43_write_initvals" alt="" coords="395,1073,517,1103"/>
+<area shape="rect" href="$main_8c.html#a797b60acc254a529418f16bbc3792fa3" title="b43_fwcapa_read" alt="" coords="395,763,517,792"/>
+<area shape="rect" href="$main_8c.html#a5230dc0a4bfb6882514678870006ca10" title="b43info" alt="" coords="641,969,705,999"/>
+</map>

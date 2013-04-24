@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__n_8c.html#a6c32257664019e72accdf8fd8cfcc065" title="b43_nphy_reset_cca" alt="" coords="253,264,395,293"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="859,265,963,295"/>
+<area shape="rect" href="$tables__nphy_8c.html#a2a81a91ae24223624eb236a2889fefbf" title="b43_ntab_write" alt="" coords="271,367,377,396"/>
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="683,5,811,35"/>
+<area shape="rect" href="$phy__n_8c.html#afb3e5e29a2aa9f47bf4363fd58946c69" title="b43_nphy_force_rf_sequence" alt="" coords="443,211,635,240"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="860,108,961,137"/>
+<area shape="rect" href="$phy__common_8c.html#ac6b943b8d455a3d3f136fd79636755b0" title="b43_phy_force_clock" alt="" coords="467,264,611,293"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="699,160,795,189"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="719,213,775,243"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="1011,135,1171,164"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1219,135,1283,164"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="1047,265,1135,295"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="863,212,959,241"/>
+<area shape="rect" href="$tables__nphy_8c.html#a51bf6c7d871a3c270aada16e22a04421" title="assert_ntab_array_sizes" alt="" coords="457,419,620,448"/>
+</map>

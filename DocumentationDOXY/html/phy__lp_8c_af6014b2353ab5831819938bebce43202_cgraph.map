@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__lp_8c.html#aae3808ca30452758f3c135c36d38d9a4" title="b43_lpphy_op_get_default_chan" alt="" coords="613,5,821,35"/>
+<area shape="rect" href="$phy__lp_8c.html#a8c683969295ad30dcf3d0795929a2933" title="channel2freq_lp" alt="" coords="193,369,305,399"/>
+<area shape="rect" href="$phy__lp_8c.html#ab8cd66489d03da459762fccafbd489cc" title="lpphy_adjust_gain_table" alt="" coords="169,209,329,239"/>
+<area shape="rect" href="$tables__lpphy_8c.html#ababf6795c48fad00b99e2e5dc554a47b" title="lpphy_init_tx_gain_table" alt="" coords="169,109,329,139"/>
+<area shape="rect" href="$tables__lpphy_8c.html#adf4883620fadc8c167e463ba1372379b" title="lpphy_rev0_1_table_init" alt="" coords="171,316,328,345"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a8e89d6bc10e2ef095ed1bb4f22a16441" title="lpphy_rev2plus_table_init" alt="" coords="165,263,333,292"/>
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="1127,83,1249,112"/>
+<area shape="rect" href="$tables__lpphy_8c.html#ae6336133eb23c4dd79e732ff2252c603" title="b43_lptab_write_bulk" alt="" coords="403,316,544,345"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="1299,277,1403,307"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="1451,251,1611,280"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="1487,304,1575,333"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1659,251,1723,280"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a215ce5320a216922c67f35340c75d055" title="lpphy_write_gain_table_bulk" alt="" coords="381,109,565,139"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a40b5e83394192af160433baba64ba386" title="lpphy_write_gain_table" alt="" coords="641,160,793,189"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a234cfc26debda9ef5e3d6c5d12683e03" title="lpphy_rev0_1_write_gain_table" alt="" coords="875,213,1072,243"/>
+<area shape="rect" href="$tables__lpphy_8c.html#ac324a66231be7542926f713c18365e09" title="lpphy_rev2plus_write_gain_table" alt="" coords="869,160,1077,189"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a4510b42ad9b05b874ec0bb516cfb1fe2" title="b43_lptab_write" alt="" coords="1132,239,1244,268"/>
+</map>

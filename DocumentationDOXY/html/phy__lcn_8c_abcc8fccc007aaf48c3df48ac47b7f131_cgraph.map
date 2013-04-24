@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="292,151,415,180"/>
+<area shape="rect" href="$phy__lcn_8c.html#a7ce6b4624213457f7017e17d5d5e4412" title="b43_phy_lcn_set_channel" alt="" coords="268,204,439,233"/>
+<area shape="rect" href="$phy__lcn_8c.html#a0d6119b6689d3f5eaf3f522d92022dfa" title="b43_phy_lcn_afe_set_unset" alt="" coords="804,283,988,312"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="1107,177,1211,207"/>
+<area shape="rect" href="$phy__lcn_8c.html#a2f616ac7f0a5b6c6e24201f2259a8cb8" title="b43_phy_lcn_load_tx_iir_cck_filter" alt="" coords="493,36,712,65"/>
+<area shape="rect" href="$phy__lcn_8c.html#aaee81dba2821f4ff8a5971ed7a2cefcd" title="b43_phy_lcn_load_tx_iir_ofdm_filter" alt="" coords="489,112,716,141"/>
+<area shape="rect" href="$phy__lcn_8c.html#a8e17fd0ebe6e5b85f7536e439241bca8" title="b43_phy_lcn_set_channel_tweaks" alt="" coords="493,177,712,207"/>
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="832,229,960,259"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="848,336,944,365"/>
+<area shape="rect" href="$phy__lcn_8c.html#a55e564d888325628622c6e514eaa54b3" title="b43_radio_2064_channel_setup" alt="" coords="795,439,997,468"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="1108,281,1209,311"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="1291,308,1451,337"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1499,308,1563,337"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="1327,177,1415,207"/>
+<area shape="rect" href="$phy__lcn_8c.html#a71bf6620361f4a9959180b2bef99ed00" title="b43_phy_lcn_txrx_spur_avoidance_mode" alt="" coords="767,125,1025,155"/>
+<area shape="rect" href="$phy__lcn_8c.html#a1b380a7c1b001ea267cda56dcb0d2cc6" title="b43_phy_switch_macfreq" alt="" coords="1075,124,1243,153"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="1325,124,1416,153"/>
+<area shape="rect" href="$phy__common_8c.html#a977aa8411429bf4468cff41f6020ea02" title="b43_radio_maskset" alt="" coords="1092,385,1225,415"/>
+<area shape="rect" href="$phy__common_8c.html#a5b0ff7aded31f6b198da210e42aa4cf2" title="b43_radio_read" alt="" coords="1104,545,1213,575"/>
+<area shape="rect" href="$phy__common_8c.html#a2d71a0cd69c04c73275668125a89651e" title="b43_radio_set" alt="" coords="1108,492,1209,521"/>
+<area shape="rect" href="$phy__common_8c.html#ac00fdf75c09fab7057076c10253170b0" title="b43_radio_write" alt="" coords="1103,439,1215,468"/>
+</map>

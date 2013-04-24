@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" href="$structb43__phy__g.html" title="b43_phy_g" alt="" coords="812,117,895,147"/>
+<area shape="rect" href="$structb43__bbatt.html" title="b43_bbatt" alt="" coords="7,23,84,52"/>
+<area shape="rect" href="$structb43__bbatt__list.html" title="b43_bbatt_list" alt="" coords="172,35,273,64"/>
+<area shape="rect" href="$structb43__rfatt.html" title="b43_rfatt" alt="" coords="9,101,81,131"/>
+<area shape="rect" href="$structb43__rfatt__list.html" title="b43_rfatt_list" alt="" coords="175,88,271,117"/>
+<area shape="rect" href="$structb43__txpower__lo__control.html" title="b43_txpower_lo_control" alt="" coords="445,88,603,117"/>
+<area shape="rect" href="$structb43__phy__lp.html" title="b43_phy_lp" alt="" coords="809,263,897,292"/>
+<area shape="rect" href="$structb43__phy__n.html" title="b43_phy_n" alt="" coords="812,316,895,345"/>
+<area shape="rect" href="$structb43__phy__n__rssical__cache.html" title="b43_phy_n_rssical_cache" alt="" coords="439,192,609,221"/>
+<area shape="rect" href="$structb43__chanspec.html" title="b43_chanspec" alt="" coords="472,313,576,343"/>
+<area shape="rect" href="$structb43__phy__n__txpwrindex.html" title="b43_phy_n_txpwrindex" alt="" coords="448,367,600,396"/>
+<area shape="rect" href="$structb43__phy__n__cal__cache.html" title="b43_phy_n_cal_cache" alt="" coords="449,420,599,449"/>
+<area shape="rect" href="$structb43__phy__n__iq__comp.html" title="b43_phy_n_iq_comp" alt="" coords="153,420,292,449"/>
+<area shape="rect" href="$structb43__phy__a.html" title="b43_phy_a" alt="" coords="812,369,895,399"/>
+<area shape="rect" href="$structb43__phy__ht.html" title="b43_phy_ht" alt="" coords="809,423,897,452"/>
+<area shape="rect" href="$structb43__phy__lcn.html" title="b43_phy_lcn" alt="" coords="807,476,900,505"/>
+<area shape="rect" href="$structb43__phy__operations.html" title="b43_phy_operations" alt="" coords="785,529,921,559"/>
+</map>

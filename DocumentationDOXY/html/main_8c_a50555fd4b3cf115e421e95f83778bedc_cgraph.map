@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8c.html#a3b0983b1ec98e4bda4fb714e3fc26a85" title="b43_tsf_write" alt="" coords="168,59,267,88"/>
+<area shape="rect" href="$b43_8h.html#a923bed0b5c7caecca6b946a983da8845" title="hw_to_b43_wl" alt="" coords="167,112,268,141"/>
+<area shape="rect" href="$main_8c.html#a5b89140b570b883ddc5bbb9326327e17" title="b43_time_lock" alt="" coords="337,59,441,88"/>
+<area shape="rect" href="$main_8c.html#a4eaae7fba82c6287dc33d3e47f7cb521" title="b43_time_unlock" alt="" coords="329,5,449,35"/>
+<area shape="rect" href="$main_8c.html#a01c19aba7dbacb50d3abadab24fc65ad" title="b43_tsf_write_locked" alt="" coords="317,112,461,141"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="511,5,599,35"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="509,59,600,88"/>
+</map>

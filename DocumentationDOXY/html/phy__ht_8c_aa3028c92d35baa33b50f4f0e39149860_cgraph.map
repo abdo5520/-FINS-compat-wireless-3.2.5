@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="280,237,403,267"/>
+<area shape="rect" href="$phy__ht_8c.html#ac02b2d31959de1294c5765309df4a9cd" title="b43_phy_ht_set_channel" alt="" coords="259,291,424,320"/>
+<area shape="rect" href="$phy__ht_8c.html#a587cd0ca79c44eeaab06f50e5c0db45b" title="b43_phy_ht_channel_setup" alt="" coords="501,136,680,165"/>
+<area shape="rect" href="$radio__2059_8c.html#aa5a0f1841986a9dc93ee3422a6c88237" title="b43_phy_ht_get_channeltab_e_r2059" alt="" coords="473,344,708,373"/>
+<area shape="rect" href="$phy__ht_8c.html#af749f17c46ef836560a27563ca55485c" title="b43_radio_2059_channel_setup" alt="" coords="489,291,692,320"/>
+<area shape="rect" href="$tables__phy__ht_8c.html#a576909295481079eb86fbb51a01bde60" title="b43_httab_read" alt="" coords="761,163,871,192"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="928,163,1029,192"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="927,59,1031,88"/>
+<area shape="rect" href="$tables__phy__ht_8c.html#a5c073dab35d091df45f1d98fec3f68ce" title="b43_httab_write" alt="" coords="760,5,872,35"/>
+<area shape="rect" href="$phy__common_8c.html#af989c6b9b6c21865492deca5a70754d4" title="b43_phy_mask" alt="" coords="761,109,871,139"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="1083,137,1243,167"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1291,137,1355,167"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="1119,59,1207,88"/>
+<area shape="rect" href="$phy__common_8c.html#aa0d4025c0760e0d0bd1529c62d1fff87" title="b43_radio_mask" alt="" coords="759,317,873,347"/>
+<area shape="rect" href="$phy__common_8c.html#a2d71a0cd69c04c73275668125a89651e" title="b43_radio_set" alt="" coords="765,371,867,400"/>
+<area shape="rect" href="$phy__common_8c.html#ac00fdf75c09fab7057076c10253170b0" title="b43_radio_write" alt="" coords="923,241,1035,271"/>
+</map>

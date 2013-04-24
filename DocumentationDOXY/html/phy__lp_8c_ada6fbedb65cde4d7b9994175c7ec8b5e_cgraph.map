@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="243,5,365,35"/>
+<area shape="rect" href="$main_8c.html#a3f3a1d36e1882927e495fa890efbbe97" title="b43_hf_read" alt="" coords="259,112,349,141"/>
+<area shape="rect" href="$main_8c.html#abbb7dc97d3d48c3504e1c35b366407ad" title="b43_hf_write" alt="" coords="257,59,351,88"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a4510b42ad9b05b874ec0bb516cfb1fe2" title="b43_lptab_write" alt="" coords="248,165,360,195"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="425,220,529,249"/>
+<area shape="rect" href="$phy__common_8c.html#a7f6accd2de2c16a2ef2e36e4098c28ce" title="b43_phy_copy" alt="" coords="425,479,529,508"/>
+<area shape="rect" href="$phy__common_8c.html#af989c6b9b6c21865492deca5a70754d4" title="b43_phy_mask" alt="" coords="249,323,359,352"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="427,375,528,404"/>
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="240,427,368,456"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="256,269,352,299"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="417,112,537,141"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="623,193,711,223"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="589,112,744,141"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="795,112,885,141"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="416,59,539,88"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="621,59,712,88"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="587,348,747,377"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="808,348,872,377"/>
+</map>

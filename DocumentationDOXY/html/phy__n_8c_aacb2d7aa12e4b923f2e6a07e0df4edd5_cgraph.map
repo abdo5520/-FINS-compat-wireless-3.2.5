@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="236,5,359,35"/>
+<area shape="rect" href="$phy__n_8c.html#ab8bb3c5903d644de759c53635e4d869d" title="b43_nphy_rx_iq_coeffs" alt="" coords="953,163,1108,192"/>
+<area shape="rect" href="$phy__n_8c.html#ab6fd470f24e0116b4006c2c03e9608a5" title="b43_nphy_stay_in_carrier_search" alt="" coords="189,233,405,263"/>
+<area shape="rect" href="$tables__nphy_8c.html#a3b8ab9b2d95165e2492e89a0bd23f431" title="b43_ntab_read_bulk" alt="" coords="963,371,1099,400"/>
+<area shape="rect" href="$phy__common_8c.html#a5b0ff7aded31f6b198da210e42aa4cf2" title="b43_radio_read" alt="" coords="243,59,352,88"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="1177,265,1279,295"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="1176,424,1280,453"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="1336,317,1496,347"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1557,317,1621,347"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="1372,527,1460,556"/>
+<area shape="rect" href="$phy__n_8c.html#ae50c3a102ec0d6e6d20c8b448b974dc9" title="b43_nphy_classifier" alt="" coords="485,628,621,657"/>
+<area shape="rect" href="$phy__n_8c.html#a0983793c31f96dd76b680507289a0a2c" title="b43_nphy_read_clip_detection" alt="" coords="456,168,651,197"/>
+<area shape="rect" href="$phy__n_8c.html#a6c32257664019e72accdf8fd8cfcc065" title="b43_nphy_reset_cca" alt="" coords="483,233,624,263"/>
+<area shape="rect" href="$phy__n_8c.html#af2521e712e8080e9477e517bb95d774f" title="b43_nphy_write_clip_detection" alt="" coords="455,311,652,340"/>
+<area shape="rect" href="$main_8c.html#a9078cc08815f04ffb2ca7d5e7eaf071c" title="b43_mac_enable" alt="" coords="737,836,857,865"/>
+<area shape="rect" href="$main_8c.html#a555504fbafc3537b275e563515f7f6d4" title="b43_mac_suspend" alt="" coords="732,681,863,711"/>
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="967,424,1095,453"/>
+<area shape="rect" href="$debugfs_8c.html#a2d8cac4c4fae4116d2248d9b5c3a782b" title="b43_debug" alt="" coords="989,784,1072,813"/>
+<area shape="rect" href="$main_8c.html#ad37797ca2e138c27c2dde2ffc37677a9" title="b43_power_saving_ctl_bits" alt="" coords="943,888,1119,917"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="1184,835,1272,864"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="1168,939,1288,968"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1544,913,1635,943"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="1003,629,1059,659"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="1339,939,1493,968"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="1180,629,1276,659"/>
+<area shape="rect" href="$phy__n_8c.html#afb3e5e29a2aa9f47bf4363fd58946c69" title="b43_nphy_force_rf_sequence" alt="" coords="701,317,893,347"/>
+<area shape="rect" href="$phy__common_8c.html#ac6b943b8d455a3d3f136fd79636755b0" title="b43_phy_force_clock" alt="" coords="725,213,869,243"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="983,317,1079,347"/>
+</map>

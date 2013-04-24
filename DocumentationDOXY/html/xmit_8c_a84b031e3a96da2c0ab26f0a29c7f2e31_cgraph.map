@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" href="$xmit_8c.html#accb968175e0f8c88cb9d8f26af5a3773" title="b43_calc_fallback_rate" alt="" coords="219,5,373,35"/>
+<area shape="rect" href="$xmit_8c.html#a771f3bd4a9c50e682e6973b512b87a01" title="b43_generate_plcp_hdr" alt="" coords="219,213,373,243"/>
+<area shape="rect" href="$main_8h.html#a27a86b54bd5b2d68c2a06f6be070d351" title="b43_is_ofdm_rate" alt="" coords="493,119,616,148"/>
+<area shape="rect" href="$xmit_8c.html#a24cc15752ebf2c2a1d794e5edc2747f3" title="b43_plcp_get_ratecode_cck" alt="" coords="463,184,647,213"/>
+<area shape="rect" href="$xmit_8c.html#ac51df2daff6dbbaeed19eb9f640a86da" title="b43_plcp_get_ratecode_ofdm" alt="" coords="459,260,651,289"/>
+<area shape="rect" href="$xmit_8c.html#a1163ef700dd264cc534de215cdd23826" title="b43_generate_tx_phy_ctl1" alt="" coords="209,59,383,88"/>
+<area shape="rect" href="$main_8c.html#ad0aa00930c54d51c0615978f79ba798e" title="b43_ieee80211_antenna_sanitize" alt="" coords="189,317,403,347"/>
+<area shape="rect" href="$xmit_8h.html#a74a3337729e40a1708ac1d72ecef1a59" title="b43_kidx_to_fw" alt="" coords="240,371,352,400"/>
+<area shape="rect" href="$main_8h.html#a39ad12948444260bb47cac232b54e86d" title="b43_is_cck_rate" alt="" coords="708,67,823,96"/>
+<area shape="rect" href="$xmit_8c.html#ad000f2f5e114f8479a2bf26d8093a2a9" title="b43_tx_legacy_rate_phy_ctl_ent" alt="" coords="451,65,659,95"/>
+<area shape="rect" href="$xmit_8h.html#ac60cfecd9f84a5fa74c67a667b308d85" title="b43_new_kidx_api" alt="" coords="491,371,619,400"/>
+</map>

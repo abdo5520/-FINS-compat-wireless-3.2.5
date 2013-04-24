@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" href="$dma_8c.html#af7db191150733e6214208de6fc32cf11" title="b43_dma_tx_resume" alt="" coords="176,59,317,88"/>
+<area shape="rect" href="$pio_8c.html#a1d3728bc849c2595801485368817743c" title="b43_pio_tx_resume" alt="" coords="180,112,313,141"/>
+<area shape="rect" href="$b43_8h.html#adfddea5171b8d4507d59f741a9476073" title="b43_using_pio_transfers" alt="" coords="165,165,328,195"/>
+<area shape="rect" href="$dma_8c.html#a39928eb4b600aade28d2ede3cec642d3" title="b43_dma_tx_resume_ring" alt="" coords="380,32,551,61"/>
+<area shape="rect" href="$main_8c.html#ad37797ca2e138c27c2dde2ffc37677a9" title="b43_power_saving_ctl_bits" alt="" coords="377,85,553,115"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="809,57,897,87"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="605,137,725,167"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="979,136,1069,165"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="809,189,897,219"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="776,136,931,165"/>
+<area shape="rect" href="$pio_8c.html#a9b578008eb4629a0479752e03838f90b" title="b43_pio_tx_resume_queue" alt="" coords="377,191,553,220"/>
+<area shape="rect" href="$pio_8h.html#a197cf126658f5c549d96787a34da2860" title="b43_piotx_read16" alt="" coords="604,191,727,220"/>
+<area shape="rect" href="$pio_8h.html#adc26fb414c58fff7f9ff8dd70085be18" title="b43_piotx_read32" alt="" coords="604,84,727,113"/>
+<area shape="rect" href="$pio_8h.html#a18a19ad6c96686d21f3e3243fcec4349" title="b43_piotx_write16" alt="" coords="603,244,728,273"/>
+<area shape="rect" href="$pio_8h.html#a59fb43e33c8b80688e73e1db6d2a7953" title="b43_piotx_write32" alt="" coords="791,296,916,325"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="808,243,899,272"/>
+</map>

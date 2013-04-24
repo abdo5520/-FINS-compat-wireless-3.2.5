@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$radio__2056_8c.html#a1d9dfb5f283b1faf137a1709667f582f" title="b2056_upload_inittabs" alt="" coords="191,32,340,61"/>
+<area shape="rect" href="$phy__n_8c.html#a0077a58b79546f2d34652cdf23194598" title="b43_radio_init2056_post" alt="" coords="185,216,345,245"/>
+<area shape="rect" href="$phy__n_8c.html#a7eea318eb87455e354452e7c5f08e2c1" title="b43_radio_init2056_pre" alt="" coords="188,137,343,167"/>
+<area shape="rect" href="$radio__2056_8c.html#aadf821615ebe899b8e399611982d407f" title="b2056_upload_inittab" alt="" coords="395,19,539,48"/>
+<area shape="rect" href="$phy__common_8c.html#ac00fdf75c09fab7057076c10253170b0" title="b43_radio_write" alt="" coords="587,5,699,35"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="747,109,907,139"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="955,109,1019,139"/>
+<area shape="rect" href="$phy__common_8c.html#aa0d4025c0760e0d0bd1529c62d1fff87" title="b43_radio_mask" alt="" coords="409,269,524,299"/>
+<area shape="rect" href="$phy__common_8c.html#a2d71a0cd69c04c73275668125a89651e" title="b43_radio_set" alt="" coords="416,216,517,245"/>
+<area shape="rect" href="$phy__common_8c.html#af989c6b9b6c21865492deca5a70754d4" title="b43_phy_mask" alt="" coords="412,109,521,139"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="419,163,515,192"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="592,109,693,139"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="591,163,695,192"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="783,163,871,192"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$dma_8c.html" title="drivers/net/wireless/b43/dma.c" alt="" coords="5,83,203,112"/>
+<area shape="rect" href="$main_8c.html" title="drivers/net/wireless/b43/main.c" alt="" coords="227,83,427,112"/>
+<area shape="rect" href="$pio_8c.html" title="drivers/net/wireless/b43/pio.c" alt="" coords="475,83,664,112"/>
+<area shape="rect" href="$xmit_8c.html" title="drivers/net/wireless/b43/xmit.c" alt="" coords="688,83,885,112"/>
+</map>

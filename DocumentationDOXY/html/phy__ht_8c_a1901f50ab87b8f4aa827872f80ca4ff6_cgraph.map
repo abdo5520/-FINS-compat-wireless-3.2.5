@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="229,5,352,35"/>
+<area shape="rect" href="$tables__phy__ht_8c.html#a576909295481079eb86fbb51a01bde60" title="b43_httab_read" alt="" coords="463,521,572,551"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="641,677,743,707"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="640,441,744,471"/>
+<area shape="rect" href="$tables__phy__ht_8c.html#a5c073dab35d091df45f1d98fec3f68ce" title="b43_httab_write" alt="" coords="461,415,573,444"/>
+<area shape="rect" href="$tables__phy__ht_8c.html#a91d56e89b31931f4d78f97b88f030a0a" title="b43_httab_write_bulk" alt="" coords="445,175,589,204"/>
+<area shape="rect" href="$tables__phy__ht_8c.html#a0a588eccd1c3d51c340cfd4de5f9ba7b" title="b43_httab_write_few" alt="" coords="448,251,587,280"/>
+<area shape="rect" href="$main_8c.html#af4799d32b5a9a83ba1ce2c0a887dca5c" title="b43_mac_phy_clock_set" alt="" coords="208,365,373,395"/>
+<area shape="rect" href="$phy__common_8c.html#ac6b943b8d455a3d3f136fd79636755b0" title="b43_phy_force_clock" alt="" coords="219,419,363,448"/>
+<area shape="rect" href="$phy__ht_8c.html#a4e872ff1e04342b22f41d1ea068f6838" title="b43_phy_ht_afe_unk1" alt="" coords="217,472,364,501"/>
+<area shape="rect" href="$phy__common_8c.html#af989c6b9b6c21865492deca5a70754d4" title="b43_phy_mask" alt="" coords="463,468,572,497"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="469,625,565,655"/>
+<area shape="rect" href="$phy__ht_8c.html#aa88dbaefc622f656f2e2ab86d6ab100d" title="b43_phy_ht_bphy_init" alt="" coords="444,349,591,379"/>
+<area shape="rect" href="$phy__ht_8c.html#a6a0ab19188c0d0f78f0004717b998479" title="b43_phy_ht_force_rf_sequence" alt="" coords="189,677,392,707"/>
+<area shape="rect" href="$phy__ht_8c.html#a7e6abde9483105bba658cd369f91b83f" title="b43_phy_ht_read_clip_detection" alt="" coords="187,835,395,864"/>
+<area shape="rect" href="$tables__phy__ht_8c.html#a03b26181dd9c8234766f29fdee5e00f0" title="b43_phy_ht_tables_init" alt="" coords="213,781,368,811"/>
+<area shape="rect" href="$phy__ht_8c.html#a0936ac702fbec67cff05f940758e9834" title="b43_phy_ht_zero_extg" alt="" coords="215,59,367,88"/>
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="453,729,581,759"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="792,625,952,655"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1000,625,1064,655"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="828,441,916,471"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="489,939,545,968"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="644,939,740,968"/>
+</map>

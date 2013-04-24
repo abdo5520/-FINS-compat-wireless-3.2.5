@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8c.html#afcd912cae3351b724dcc76503726094d" title="b43_clear_keys" alt="" coords="177,107,289,136"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="1037,351,1128,380"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="173,563,293,592"/>
+<area shape="rect" href="$main_8c.html#afb8fd4dbf87bb31c567ff814bd423d7f" title="b43_key_clear" alt="" coords="343,107,447,136"/>
+<area shape="rect" href="$xmit_8h.html#ac60cfecd9f84a5fa74c67a667b308d85" title="b43_new_kidx_api" alt="" coords="1019,119,1147,148"/>
+<area shape="rect" href="$main_8c.html#a9eef83eb335b7be483eddef57b3333b5" title="do_key_write" alt="" coords="497,169,593,199"/>
+<area shape="rect" href="$main_8c.html#a424413582f4e1dd5d08fd7b62cadbc4a" title="key_write" alt="" coords="677,169,752,199"/>
+<area shape="rect" href="$main_8c.html#a5fad7679ee73ed3d3792c393b6c25aaf" title="keymac_write" alt="" coords="665,248,764,277"/>
+<area shape="rect" href="$main_8c.html#a7e02161c8c1cefc4b83ddd4c5baf0db5" title="rx_tkip_phase1_write" alt="" coords="643,352,787,381"/>
+<area shape="rect" href="$xmit_8h.html#a74a3337729e40a1708ac1d72ecef1a59" title="b43_kidx_to_fw" alt="" coords="840,144,952,173"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="835,352,957,381"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="1005,404,1160,433"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1208,352,1299,381"/>
+<area shape="rect" href="$main_8c.html#a2141285c33d6611aadb9d64f4f8db894" title="b43_shm_write32" alt="" coords="835,299,957,328"/>
+<area shape="rect" href="$debugfs_8c.html#a2d8cac4c4fae4116d2248d9b5c3a782b" title="b43_debug" alt="" coords="855,405,937,435"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="864,459,928,488"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="351,563,439,592"/>
+</map>

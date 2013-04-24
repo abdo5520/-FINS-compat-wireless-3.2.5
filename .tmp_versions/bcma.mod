@@ -1,0 +1,2 @@
+/home/fins1/compat-wireless-3.2.5-1/drivers/bcma/bcma.ko
+/home/fins1/compat-wireless-3.2.5-1/drivers/bcma/main.o /home/fins1/compat-wireless-3.2.5-1/drivers/bcma/scan.o /home/fins1/compat-wireless-3.2.5-1/drivers/bcma/core.o /home/fins1/compat-wireless-3.2.5-1/drivers/bcma/sprom.o /home/fins1/compat-wireless-3.2.5-1/drivers/bcma/driver_chipcommon.o /home/fins1/compat-wireless-3.2.5-1/drivers/bcma/driver_chipcommon_pmu.o /home/fins1/compat-wireless-3.2.5-1/drivers/bcma/driver_pci.o /home/fins1/compat-wireless-3.2.5-1/drivers/bcma/host_pci.o

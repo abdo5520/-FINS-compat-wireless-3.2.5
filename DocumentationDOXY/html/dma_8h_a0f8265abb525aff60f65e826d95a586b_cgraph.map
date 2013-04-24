@@ -1,0 +1,35 @@
+<map id="G" name="G">
+<area shape="rect" href="$debugfs_8c.html#a2d8cac4c4fae4116d2248d9b5c3a782b" title="b43_debug" alt="" coords="388,5,471,35"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="397,59,461,88"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="195,163,251,192"/>
+<area shape="rect" href="$dma_8c.html#a290feb7cc43e94e072760bb498375ddb" title="dma_tx_fragment" alt="" coords="161,379,284,408"/>
+<area shape="rect" href="$dma_8c.html#a9c8ae23096537edebfe1f4144aafb607" title="free_slots" alt="" coords="628,639,705,668"/>
+<area shape="rect" href="$dma_8c.html#a05c2e8323970f62e5ca9cea3d025c6f5" title="select_ring_by_priority" alt="" coords="147,693,299,723"/>
+<area shape="rect" href="$dma_8c.html#a5488ac51bf36a0b044ccdae5f596020f" title="should_inject_overflow" alt="" coords="147,59,299,88"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="381,112,477,141"/>
+<area shape="rect" href="$dma_8c.html#a93b25dd063d439f033dc98cbef84ee3e" title="b43_dma_mapping_error" alt="" coords="348,589,511,619"/>
+<area shape="rect" href="$dma_8c.html#ad4296bce0ba3d1d30bbda051dee9f766" title="unmap_descbuffer" alt="" coords="603,692,731,721"/>
+<area shape="rect" href="$xmit_8c.html#a84b031e3a96da2c0ab26f0a29c7f2e31" title="b43_generate_txhdr" alt="" coords="361,272,497,301"/>
+<area shape="rect" href="$xmit_8h.html#ad8e37541141f78894c75c76b6a7428f7" title="b43_get_priv_tx_info" alt="" coords="359,165,500,195"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="368,325,491,355"/>
+<area shape="rect" href="$xmit_8h.html#aefb22eec00cb7bd01d34221e000950f3" title="b43_txhdr_size" alt="" coords="375,219,484,248"/>
+<area shape="rect" href="$dma_8c.html#a8d160f694f77e2a330242806ecf886cd" title="generate_cookie" alt="" coords="372,379,487,408"/>
+<area shape="rect" href="$dma_8c.html#ae99f45dac5ed4239196c59ee9cae3857" title="map_descbuffer" alt="" coords="372,432,487,461"/>
+<area shape="rect" href="$dma_8c.html#a93293a60e05d89d5147fd204c2e1fbe4" title="next_slot" alt="" coords="629,532,704,561"/>
+<area shape="rect" href="$dma_8c.html#afed3f3b673948139ec7db5e12f4bf1f2" title="request_slot" alt="" coords="384,536,475,565"/>
+<area shape="rect" href="$xmit_8c.html#accb968175e0f8c88cb9d8f26af5a3773" title="b43_calc_fallback_rate" alt="" coords="589,111,744,140"/>
+<area shape="rect" href="$xmit_8c.html#a771f3bd4a9c50e682e6973b512b87a01" title="b43_generate_plcp_hdr" alt="" coords="589,215,744,244"/>
+<area shape="rect" href="$main_8h.html#a27a86b54bd5b2d68c2a06f6be070d351" title="b43_is_ofdm_rate" alt="" coords="864,216,987,245"/>
+<area shape="rect" href="$xmit_8c.html#a24cc15752ebf2c2a1d794e5edc2747f3" title="b43_plcp_get_ratecode_cck" alt="" coords="833,163,1017,192"/>
+<area shape="rect" href="$xmit_8c.html#ac51df2daff6dbbaeed19eb9f640a86da" title="b43_plcp_get_ratecode_ofdm" alt="" coords="829,84,1021,113"/>
+<area shape="rect" href="$xmit_8c.html#a1163ef700dd264cc534de215cdd23826" title="b43_generate_tx_phy_ctl1" alt="" coords="580,319,753,348"/>
+<area shape="rect" href="$main_8c.html#ad0aa00930c54d51c0615978f79ba798e" title="b43_ieee80211_antenna_sanitize" alt="" coords="560,7,773,36"/>
+<area shape="rect" href="$xmit_8h.html#a74a3337729e40a1708ac1d72ecef1a59" title="b43_kidx_to_fw" alt="" coords="611,372,723,401"/>
+<area shape="rect" href="$main_8h.html#a39ad12948444260bb47cac232b54e86d" title="b43_is_cck_rate" alt="" coords="1079,243,1193,272"/>
+<area shape="rect" href="$xmit_8c.html#ad000f2f5e114f8479a2bf26d8093a2a9" title="b43_tx_legacy_rate_phy_ctl_ent" alt="" coords="821,320,1029,349"/>
+<area shape="rect" href="$xmit_8h.html#ac60cfecd9f84a5fa74c67a667b308d85" title="b43_new_kidx_api" alt="" coords="861,373,989,403"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="589,479,744,508"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="621,425,712,455"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="880,479,971,508"/>
+<area shape="rect" href="$dma_8c.html#a80f31392b8a59acc68dcb59a52543bae" title="update_max_used_slots" alt="" coords="585,585,748,615"/>
+</map>

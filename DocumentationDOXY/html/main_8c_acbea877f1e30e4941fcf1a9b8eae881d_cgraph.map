@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8c.html#a140320365f90a1ec9b30deef9123adbf" title="b43_periodic_work_handler" alt="" coords="228,112,404,141"/>
+<area shape="rect" href="$debugfs_8c.html#a2d8cac4c4fae4116d2248d9b5c3a782b" title="b43_debug" alt="" coords="885,5,968,35"/>
+<area shape="rect" href="$main_8c.html#ab341545fa8b03f85c272daa2add2cb9a" title="do_periodic_work" alt="" coords="455,203,575,232"/>
+<area shape="rect" href="$main_8c.html#a39f37f87872803d87c0367b035a1a9f1" title="b43_periodic_every15sec" alt="" coords="624,163,792,192"/>
+<area shape="rect" href="$main_8c.html#a1b12c1bf4805fe675b676121dc4dae8c" title="b43_periodic_every30sec" alt="" coords="624,241,792,271"/>
+<area shape="rect" href="$main_8c.html#a3bd83cb708cb77d336178de632d14f59" title="b43_periodic_every60sec" alt="" coords="624,347,792,376"/>
+<area shape="rect" href="$main_8c.html#a3eb8575d2f739c13958ee878d071ca02" title="b43_controller_restart" alt="" coords="853,59,1000,88"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="867,163,987,192"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="1448,241,1571,271"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="895,267,959,296"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="1127,59,1183,88"/>
+<area shape="rect" href="$main_8c.html#a5230dc0a4bfb6882514678870006ca10" title="b43info" alt="" coords="1123,5,1187,35"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="1300,32,1396,61"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="1111,112,1199,141"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="1619,201,1773,231"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1821,260,1912,289"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="1651,255,1741,284"/>
+<area shape="rect" href="$main_8c.html#a6bf607f89f6429d1a4a8174b2b7f77a8" title="b43_calculate_link_quality" alt="" coords="840,320,1013,349"/>
+<area shape="rect" href="$main_8c.html#aec975028fcda43e3664c660fa79af42b" title="b43_generate_noise_sample" alt="" coords="1061,320,1248,349"/>
+<area shape="rect" href="$main_8c.html#ae9956c35417e873d337508206492d189" title="b43_jssi_write" alt="" coords="1296,267,1400,296"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="1304,371,1392,400"/>
+<area shape="rect" href="$phy__common_8c.html#a0e494029d77178ed9d6f7816d186c551" title="b43_phy_txpower_check" alt="" coords="845,373,1008,403"/>
+</map>

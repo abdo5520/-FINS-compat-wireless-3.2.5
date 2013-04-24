@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" href="$dma_8c.html#abd1418d076389d1cc14ccf81ea1cc2d9" title="b43_dma_set_mask" alt="" coords="192,84,331,113"/>
+<area shape="rect" href="$dma_8c.html#af193f2648c8c5743b8c1843c3f2f75e2" title="dma_mask_to_engine_type" alt="" coords="420,109,599,139"/>
+<area shape="rect" href="$dma_8c.html#a14c118cd51643983c67e48c80ff16d60" title="b43_dma_translation_in_low_word" alt="" coords="152,501,371,531"/>
+<area shape="rect" href="$dma_8c.html#a1a30a032aa144303a61eee962b466d24" title="b43_setup_dmaring" alt="" coords="195,343,328,372"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="229,555,293,584"/>
+<area shape="rect" href="$dma_8c.html#ab0419829bb36595ec2ec38168da3a037" title="supported_dma_mask" alt="" coords="187,448,336,477"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="1100,263,1156,292"/>
+<area shape="rect" href="$main_8c.html#a5230dc0a4bfb6882514678870006ca10" title="b43info" alt="" coords="895,5,959,35"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="1275,224,1371,253"/>
+<area shape="rect" href="$dma_8c.html#a23222fa8a2adca358ef5aee588a37c88" title="alloc_ringmemory" alt="" coords="667,263,789,292"/>
+<area shape="rect" href="$dma_8c.html#a93b25dd063d439f033dc98cbef84ee3e" title="b43_dma_mapping_error" alt="" coords="1047,316,1209,345"/>
+<area shape="rect" href="$dma_8c.html#aca857851f2b0f934f7da3e36e9ff515e" title="b43_dmacontroller_base" alt="" coords="428,475,591,504"/>
+<area shape="rect" href="$xmit_8h.html#aefb22eec00cb7bd01d34221e000950f3" title="b43_txhdr_size" alt="" coords="455,368,564,397"/>
+<area shape="rect" href="$dma_8c.html#aae97289f67689555953e1b9618b4d43e" title="dmacontroller_setup" alt="" coords="440,421,579,451"/>
+<area shape="rect" href="$dma_8c.html#a2a6e5a81665b4f50d3beb4c23e896c5a" title="free_ringmemory" alt="" coords="451,213,568,243"/>
+<area shape="rect" href="$dma_8c.html#ad4296bce0ba3d1d30bbda051dee9f766" title="unmap_descbuffer" alt="" coords="1259,356,1387,385"/>
+<area shape="rect" href="$dma_8c.html#aaffb73fbb8a1416601e5084b310e4a26" title="alloc_initial_descbuffers" alt="" coords="648,421,808,451"/>
+<area shape="rect" href="$dma_8c.html#a28228488cb42bb5c1152e436ab8ba2a4" title="b43_dma_address" alt="" coords="664,368,792,397"/>
+<area shape="rect" href="$dma_8h.html#a9046eb73a6fb2b7c1ebe9e4122d52e53" title="b43_dma_write" alt="" coords="675,515,781,544"/>
+<area shape="rect" href="$dma_8c.html#ab93bf87e6cc822ed8086cfe41a114eea" title="setup_rx_descbuffer" alt="" coords="857,419,996,448"/>
+<area shape="rect" href="$dma_8c.html#a89755b2ef4f036d6b168689d8903db10" title="b43_poison_rx_buffer" alt="" coords="1056,369,1200,399"/>
+<area shape="rect" href="$dma_8c.html#ae99f45dac5ed4239196c59ee9cae3857" title="map_descbuffer" alt="" coords="1071,423,1185,452"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="881,540,972,569"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="465,528,553,557"/>
+</map>

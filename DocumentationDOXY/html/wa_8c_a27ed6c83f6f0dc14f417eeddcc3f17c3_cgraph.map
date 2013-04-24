@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8c.html#a81f3a88ca0158a67ecadf6f38d9f6c4c" title="b43_dummy_transmission" alt="" coords="155,111,328,140"/>
+<area shape="rect" href="$phy__a_8h.html#a0524a8e2c368fdcca9bfc148786a153e" title="b43_ofdmtab_read16" alt="" coords="171,243,312,272"/>
+<area shape="rect" href="$phy__a_8h.html#a53b0f35cb22775c784e911c203b52482" title="b43_ofdmtab_write16" alt="" coords="169,189,313,219"/>
+<area shape="rect" href="$main_8c.html#a0c971b5abd907c5855f4cb0eecb9265d" title="b43_ram_write" alt="" coords="377,32,481,61"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="567,151,655,180"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="384,136,475,165"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="567,5,655,35"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="565,59,656,88"/>
+<area shape="rect" href="$tables_8c.html#a2dcd94da8937151072fc3f7713465522" title="assert_sizes" alt="" coords="381,243,477,272"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="379,296,480,325"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="377,189,481,219"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="531,231,691,260"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="739,231,803,260"/>
+</map>

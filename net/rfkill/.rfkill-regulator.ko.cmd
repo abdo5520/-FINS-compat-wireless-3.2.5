@@ -1,0 +1,1 @@
+cmd_/home/fins1/compat-wireless-3.2.5-1/net/rfkill/rfkill-regulator.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-030200-generic/scripts/module-common.lds --build-id  -o /home/fins1/compat-wireless-3.2.5-1/net/rfkill/rfkill-regulator.ko /home/fins1/compat-wireless-3.2.5-1/net/rfkill/rfkill-regulator.o /home/fins1/compat-wireless-3.2.5-1/net/rfkill/rfkill-regulator.mod.o

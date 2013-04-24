@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="193,5,284,35"/>
+<area shape="rect" href="$phy__n_8c.html#ac876d848f035181cc021612d3163f87d" title="check_phyreg" alt="" coords="188,59,289,88"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="340,59,396,88"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="445,59,541,88"/>
+</map>

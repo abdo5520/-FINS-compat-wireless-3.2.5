@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#ac21e357a9560b824adf9aa47135bb074" title="b43_block_read" alt="" coords="156,189,268,219"/>
+<area shape="rect" href="$pio_8h.html#ab31c5e69cf8279cb7d26d6dffc2ee17b" title="b43_piorx_read16" alt="" coords="151,243,273,272"/>
+<area shape="rect" href="$pio_8h.html#ae23b965ee9428241a3e0bfebc79c56c2" title="b43_piorx_read32" alt="" coords="151,296,273,325"/>
+<area shape="rect" href="$pio_8h.html#a82ca4e4347d6df45c7bef6b17832ed16" title="b43_piorx_write16" alt="" coords="149,493,275,523"/>
+<area shape="rect" href="$pio_8h.html#a6973331b868b0f3ef9614f0daea73ec4" title="b43_piorx_write32" alt="" coords="149,601,275,631"/>
+<area shape="rect" href="$xmit_8c.html#ad857f761fb507d5d5b91bea3e6cff51f" title="b43_rx" alt="" coords="183,349,241,379"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="392,536,456,565"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="380,5,468,35"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="593,84,681,113"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="379,589,469,619"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="379,643,469,672"/>
+<area shape="rect" href="$main_8h.html#aeb7398e9223ffcafd31b47a1f401f157" title="b43_channel_to_freq_5ghz" alt="" coords="336,163,512,192"/>
+<area shape="rect" href="$main_8h.html#ae14922a57e25451fd8c02d8e0e89691e" title="b43_freq_to_channel_2ghz" alt="" coords="336,216,512,245"/>
+<area shape="rect" href="$main_8h.html#ac52fe6427eb4d25ace4e32c5512f0b4f" title="b43_freq_to_channel_5ghz" alt="" coords="336,269,512,299"/>
+<area shape="rect" href="$xmit_8h.html#af6f73d3f8a64f6daa16dcd4c61572452" title="b43_kidx_to_raw" alt="" coords="365,323,483,352"/>
+<area shape="rect" href="$xmit_8c.html#a3ef5f9170c2b81970a5295eddd4f6a41" title="b43_plcp_get_bitrate_idx_cck" alt="" coords="328,376,520,405"/>
+<area shape="rect" href="$xmit_8c.html#adf5d8720f8c8d637a51862c1a6b76640" title="b43_plcp_get_bitrate_idx_ofdm" alt="" coords="324,429,524,459"/>
+<area shape="rect" href="$xmit_8c.html#a08ee23a967d643587efdd0ec1b36e3d1" title="b43_rssi_postprocess" alt="" coords="351,483,497,512"/>
+<area shape="rect" href="$main_8c.html#a98d32cee78d12c9b941c214f24fa9bc1" title="b43_tsf_read" alt="" coords="376,109,472,139"/>
+<area shape="rect" href="$xmit_8h.html#ac60cfecd9f84a5fa74c67a667b308d85" title="b43_new_kidx_api" alt="" coords="573,323,701,352"/>
+</map>

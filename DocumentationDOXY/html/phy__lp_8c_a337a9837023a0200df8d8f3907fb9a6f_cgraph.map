@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="205,5,328,35"/>
+<area shape="rect" href="$phy__lp_8c.html#a5069ae26dc96ec4524716141b3019a7b" title="lpphy_set_bb_mult" alt="" coords="201,59,332,88"/>
+<area shape="rect" href="$phy__lp_8c.html#a66654a1a95f3d9d1c33bbb56a33b2238" title="lpphy_set_tx_gains" alt="" coords="200,163,333,192"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a4510b42ad9b05b874ec0bb516cfb1fe2" title="b43_lptab_write" alt="" coords="637,32,749,61"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="805,85,909,115"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="957,164,1117,193"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="993,85,1081,115"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1165,164,1229,193"/>
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="629,189,757,219"/>
+<area shape="rect" href="$phy__lp_8c.html#aa2ac46731987d02af3d6dc098aad5c87" title="lpphy_enable_tx_gain_override" alt="" coords="381,136,581,165"/>
+<area shape="rect" href="$phy__lp_8c.html#a23bf41fc13e0a112c7cd989627c2e3a6" title="lpphy_get_pa_gain" alt="" coords="417,293,545,323"/>
+<area shape="rect" href="$phy__lp_8c.html#a0f57ad6207dc6441ec6ec28465680527" title="lpphy_set_dac_gain" alt="" coords="413,240,549,269"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="807,240,908,269"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="645,136,741,165"/>
+</map>

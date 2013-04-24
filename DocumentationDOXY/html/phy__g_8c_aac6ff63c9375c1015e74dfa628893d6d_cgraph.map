@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__g_8c.html#ad80db71c525bfff1a1724b3b9462e377" title="b43_tssi2dbm_entry" alt="" coords="267,5,405,35"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="308,59,364,88"/>
+<area shape="rect" href="$phy__g_8c.html#a440742c10c83b413a9e0450ce3cfb484" title="b43_tssi2dbm_ad" alt="" coords="455,5,577,35"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="468,59,564,88"/>
+</map>

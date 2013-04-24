@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$dma_8c.html#af32e64d498bb8e925e418bd588cb9fd7" title="b43_dma_direct_fifo_rx" alt="" coords="219,84,373,113"/>
+<area shape="rect" href="$pio_8c.html#abaac871d71d9811f45c89d6ca2bcd6eb" title="index_to_pioqueue_base" alt="" coords="215,137,377,167"/>
+<area shape="rect" href="$pio_8c.html#a801a3b10ddd1b5963fe582dd6baefec5" title="pio_rxqueue_offset" alt="" coords="231,191,361,220"/>
+<area shape="rect" href="$dma_8c.html#aca857851f2b0f934f7da3e36e9ff515e" title="b43_dmacontroller_base" alt="" coords="656,5,819,35"/>
+<area shape="rect" href="$dma_8c.html#a4ad06284e721ae78027dc8778e3885c9" title="direct_fifo_rx" alt="" coords="469,111,565,140"/>
+<area shape="rect" href="$dma_8c.html#af193f2648c8c5743b8c1843c3f2f75e2" title="dma_mask_to_engine_type" alt="" coords="428,164,607,193"/>
+<area shape="rect" href="$dma_8c.html#ab0419829bb36595ec2ec38168da3a037" title="supported_dma_mask" alt="" coords="443,57,592,87"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="693,112,781,141"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="692,59,783,88"/>
+</map>

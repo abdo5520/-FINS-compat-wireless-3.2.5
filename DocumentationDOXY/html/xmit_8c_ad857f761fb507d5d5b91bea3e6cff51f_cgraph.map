@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8h.html#aeb7398e9223ffcafd31b47a1f401f157" title="b43_channel_to_freq_5ghz" alt="" coords="128,5,304,35"/>
+<area shape="rect" href="$main_8h.html#ae14922a57e25451fd8c02d8e0e89691e" title="b43_freq_to_channel_2ghz" alt="" coords="128,59,304,88"/>
+<area shape="rect" href="$main_8h.html#ac52fe6427eb4d25ace4e32c5512f0b4f" title="b43_freq_to_channel_5ghz" alt="" coords="128,112,304,141"/>
+<area shape="rect" href="$xmit_8h.html#af6f73d3f8a64f6daa16dcd4c61572452" title="b43_kidx_to_raw" alt="" coords="157,165,275,195"/>
+<area shape="rect" href="$xmit_8c.html#a3ef5f9170c2b81970a5295eddd4f6a41" title="b43_plcp_get_bitrate_idx_cck" alt="" coords="120,219,312,248"/>
+<area shape="rect" href="$xmit_8c.html#adf5d8720f8c8d637a51862c1a6b76640" title="b43_plcp_get_bitrate_idx_ofdm" alt="" coords="116,272,316,301"/>
+<area shape="rect" href="$xmit_8c.html#a08ee23a967d643587efdd0ec1b36e3d1" title="b43_rssi_postprocess" alt="" coords="143,325,289,355"/>
+<area shape="rect" href="$main_8c.html#a98d32cee78d12c9b941c214f24fa9bc1" title="b43_tsf_read" alt="" coords="168,379,264,408"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="184,432,248,461"/>
+<area shape="rect" href="$xmit_8h.html#ac60cfecd9f84a5fa74c67a667b308d85" title="b43_new_kidx_api" alt="" coords="365,165,493,195"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="385,379,473,408"/>
+</map>

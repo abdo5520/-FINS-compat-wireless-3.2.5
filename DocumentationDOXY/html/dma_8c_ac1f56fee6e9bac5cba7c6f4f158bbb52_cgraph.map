@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" href="$dma_8c.html#a89755b2ef4f036d6b168689d8903db10" title="b43_poison_rx_buffer" alt="" coords="379,12,523,41"/>
+<area shape="rect" href="$xmit_8c.html#ad857f761fb507d5d5b91bea3e6cff51f" title="b43_rx" alt="" coords="180,409,239,439"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="419,703,483,732"/>
+<area shape="rect" href="$dma_8c.html#aeda80980e3f41dd3663d20585f549272" title="b43_rx_buffer_is_poisoned" alt="" coords="121,513,297,543"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="423,65,479,95"/>
+<area shape="rect" href="$dma_8c.html#a93293a60e05d89d5147fd204c2e1fbe4" title="next_slot" alt="" coords="172,567,247,596"/>
+<area shape="rect" href="$dma_8c.html#ab93bf87e6cc822ed8086cfe41a114eea" title="setup_rx_descbuffer" alt="" coords="140,119,279,148"/>
+<area shape="rect" href="$dma_8c.html#ad4296bce0ba3d1d30bbda051dee9f766" title="unmap_descbuffer" alt="" coords="600,172,728,201"/>
+<area shape="rect" href="$dma_8c.html#abdd1d713c38254f70aef895cf971fbc4" title="sync_descbuffer_for_cpu" alt="" coords="127,620,292,649"/>
+<area shape="rect" href="$dma_8c.html#afe9fec9b6b93f8bffadd212e07749339" title="sync_descbuffer_for_device" alt="" coords="117,673,301,703"/>
+<area shape="rect" href="$main_8h.html#aeb7398e9223ffcafd31b47a1f401f157" title="b43_channel_to_freq_5ghz" alt="" coords="363,383,539,412"/>
+<area shape="rect" href="$main_8h.html#ae14922a57e25451fd8c02d8e0e89691e" title="b43_freq_to_channel_2ghz" alt="" coords="363,436,539,465"/>
+<area shape="rect" href="$main_8h.html#ac52fe6427eb4d25ace4e32c5512f0b4f" title="b43_freq_to_channel_5ghz" alt="" coords="363,489,539,519"/>
+<area shape="rect" href="$xmit_8h.html#af6f73d3f8a64f6daa16dcd4c61572452" title="b43_kidx_to_raw" alt="" coords="392,543,509,572"/>
+<area shape="rect" href="$xmit_8c.html#a3ef5f9170c2b81970a5295eddd4f6a41" title="b43_plcp_get_bitrate_idx_cck" alt="" coords="355,596,547,625"/>
+<area shape="rect" href="$xmit_8c.html#adf5d8720f8c8d637a51862c1a6b76640" title="b43_plcp_get_bitrate_idx_ofdm" alt="" coords="351,649,551,679"/>
+<area shape="rect" href="$xmit_8c.html#a08ee23a967d643587efdd0ec1b36e3d1" title="b43_rssi_postprocess" alt="" coords="377,276,524,305"/>
+<area shape="rect" href="$main_8c.html#a98d32cee78d12c9b941c214f24fa9bc1" title="b43_tsf_read" alt="" coords="403,329,499,359"/>
+<area shape="rect" href="$xmit_8h.html#ac60cfecd9f84a5fa74c67a667b308d85" title="b43_new_kidx_api" alt="" coords="600,543,728,572"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="620,329,708,359"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="616,65,712,95"/>
+<area shape="rect" href="$dma_8c.html#a93b25dd063d439f033dc98cbef84ee3e" title="b43_dma_mapping_error" alt="" coords="369,119,532,148"/>
+<area shape="rect" href="$dma_8c.html#ae99f45dac5ed4239196c59ee9cae3857" title="map_descbuffer" alt="" coords="393,172,508,201"/>
+</map>

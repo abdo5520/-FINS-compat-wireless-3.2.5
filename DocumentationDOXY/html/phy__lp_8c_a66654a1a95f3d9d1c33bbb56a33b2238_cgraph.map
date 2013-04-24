@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="436,113,564,143"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="613,11,717,40"/>
+<area shape="rect" href="$phy__lp_8c.html#aa2ac46731987d02af3d6dc098aad5c87" title="lpphy_enable_tx_gain_override" alt="" coords="187,60,387,89"/>
+<area shape="rect" href="$phy__lp_8c.html#a23bf41fc13e0a112c7cd989627c2e3a6" title="lpphy_get_pa_gain" alt="" coords="436,217,564,247"/>
+<area shape="rect" href="$phy__lp_8c.html#a0f57ad6207dc6441ec6ec28465680527" title="lpphy_set_dac_gain" alt="" coords="219,165,355,195"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="765,89,925,119"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="615,165,716,195"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="973,89,1037,119"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="801,11,889,40"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="452,60,548,89"/>
+</map>

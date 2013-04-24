@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#ae81ec87adaa8062e52b56fec0fb1a079" title="b43_bus_may_powerdown" alt="" coords="156,5,327,35"/>
+<area shape="rect" href="$b43_8h.html#ab29a7f85dbfed733554e67df8ed4ca12" title="b43_bus_powerup" alt="" coords="179,59,304,88"/>
+<area shape="rect" href="$b43_8h.html#af44dbafe4f4511170e18d845cb74ec46" title="b43_device_disable" alt="" coords="173,112,309,141"/>
+<area shape="rect" href="$b43_8h.html#ae6ebe261d0b2fea8b83189ca05f19a48" title="b43_device_enable" alt="" coords="176,165,307,195"/>
+<area shape="rect" href="$rfkill_8c.html#a0b1ad225d0bd05249bcbd450c564ea5f" title="b43_is_hw_radio_enabled" alt="" coords="377,115,545,144"/>
+<area shape="rect" href="$phy__common_8c.html#ab5aa98091c0828bdd5b94c6f0d63b1ad" title="b43_software_rfkill" alt="" coords="177,269,305,299"/>
+<area shape="rect" href="$main_8c.html#a5230dc0a4bfb6882514678870006ca10" title="b43info" alt="" coords="429,425,493,455"/>
+<area shape="rect" href="$b43_8h.html#a923bed0b5c7caecca6b946a983da8845" title="hw_to_b43_wl" alt="" coords="191,373,292,403"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="837,165,925,195"/>
+<area shape="rect" href="$main_8c.html#a9078cc08815f04ffb2ca7d5e7eaf071c" title="b43_mac_enable" alt="" coords="401,296,521,325"/>
+<area shape="rect" href="$main_8c.html#a555504fbafc3537b275e563515f7f6d4" title="b43_mac_suspend" alt="" coords="396,243,527,272"/>
+<area shape="rect" href="$debugfs_8c.html#a2d8cac4c4fae4116d2248d9b5c3a782b" title="b43_debug" alt="" coords="643,451,725,480"/>
+<area shape="rect" href="$main_8c.html#ad37797ca2e138c27c2dde2ffc37677a9" title="b43_power_saving_ctl_bits" alt="" coords="596,243,772,272"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="821,293,941,323"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1192,295,1283,324"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="656,296,712,325"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="1023,293,1111,323"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="989,347,1144,376"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="833,347,929,376"/>
+</map>

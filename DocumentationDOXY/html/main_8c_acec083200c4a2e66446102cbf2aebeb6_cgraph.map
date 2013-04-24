@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8c.html#a711d1a4808c5ad79e811396ea0ae54a7" title="b43_print_fw_helptext" alt="" coords="204,8,351,37"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="447,59,503,88"/>
+<area shape="rect" href="$main_8c.html#a93f47e482095ce857317d5bd353a7fb4" title="b43_try_request_fw" alt="" coords="211,112,344,141"/>
+<area shape="rect" href="$main_8c.html#adb2d09d5180d74a048194743ed67302b" title="b43warn" alt="" coords="440,5,509,35"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="616,45,712,75"/>
+<area shape="rect" href="$main_8c.html#a7ef5357ca5988a880ac48e35b271f23b" title="b43_do_request_fw" alt="" coords="408,112,541,141"/>
+<area shape="rect" href="$main_8c.html#ad33cbdca6bd11daffd5fc885282412fd" title="b43_release_firmware" alt="" coords="401,165,548,195"/>
+<area shape="rect" href="$main_8c.html#aea9a2a6f819b13fe33be1ad6daa0fd67" title="b43_do_release_fw" alt="" coords="599,125,729,155"/>
+</map>

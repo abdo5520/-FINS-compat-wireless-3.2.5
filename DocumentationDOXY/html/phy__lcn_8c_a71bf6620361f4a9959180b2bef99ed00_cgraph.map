@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__lcn_8c.html#a1b380a7c1b001ea267cda56dcb0d2cc6" title="b43_phy_switch_macfreq" alt="" coords="315,5,483,35"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="347,59,451,88"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="565,5,656,35"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="531,59,691,88"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="567,112,655,141"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="739,59,803,88"/>
+</map>

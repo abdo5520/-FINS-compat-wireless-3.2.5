@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$leds_8c.html#a661435da6f503c0ae1dc10c4d29f5b9b" title="b43_register_led" alt="" coords="153,7,268,36"/>
+<area shape="rect" href="$main_8c.html#adb2d09d5180d74a048194743ed67302b" title="b43warn" alt="" coords="363,59,432,88"/>
+<area shape="rect" href="$leds_8c.html#a9065b28a52adc9a9c593f366fdc59610" title="b43_led_brightness_set" alt="" coords="319,5,476,35"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="525,59,621,88"/>
+</map>

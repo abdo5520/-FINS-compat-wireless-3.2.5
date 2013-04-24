@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__common_8c.html#af989c6b9b6c21865492deca5a70754d4" title="b43_phy_mask" alt="" coords="556,40,665,69"/>
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="547,147,675,176"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="563,93,659,123"/>
+<area shape="rect" href="$phy__lp_8c.html#ace3faccb5a4efe2cc3e2c36e50628a15" title="lpphy_disable_tx_gain_override" alt="" coords="267,40,469,69"/>
+<area shape="rect" href="$phy__lp_8c.html#adfed08e910abd9739908748eca172bb5" title="lpphy_read_tx_pctl_mode_from_hardware" alt="" coords="237,248,499,277"/>
+<area shape="rect" href="$phy__lp_8c.html#a653ad8404c35e7ccdd5223d8d3ece066" title="lpphy_write_tx_pctl_mode_to_hardware" alt="" coords="244,195,492,224"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="875,96,1035,125"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="724,147,825,176"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="723,43,827,72"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1083,96,1147,125"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="911,43,999,72"/>
+</map>

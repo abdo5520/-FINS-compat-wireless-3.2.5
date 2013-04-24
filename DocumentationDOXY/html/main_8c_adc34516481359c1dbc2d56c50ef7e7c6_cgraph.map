@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__common_8c.html#a521d74185ab8de86484ebd1f9a011b63" title="b43_phy_free" alt="" coords="255,5,353,35"/>
+<area shape="rect" href="$main_8c.html#ad33cbdca6bd11daffd5fc885282412fd" title="b43_release_firmware" alt="" coords="231,59,377,88"/>
+<area shape="rect" href="$main_8c.html#aea9a2a6f819b13fe33be1ad6daa0fd67" title="b43_do_release_fw" alt="" coords="428,59,559,88"/>
+</map>

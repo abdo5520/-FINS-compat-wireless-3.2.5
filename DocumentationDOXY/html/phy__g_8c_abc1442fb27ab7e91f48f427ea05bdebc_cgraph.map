@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__common_8c.html#af989c6b9b6c21865492deca5a70754d4" title="b43_phy_mask" alt="" coords="236,5,345,35"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="453,57,555,87"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="452,161,556,191"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="647,215,735,244"/>
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="227,109,355,139"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="243,163,339,192"/>
+<area shape="rect" href="$phy__g_8c.html#aead51b98172258d1e1331adfbb4d15ad" title="b43_radio_core_calibration_value" alt="" coords="184,317,397,347"/>
+<area shape="rect" href="$phy__common_8c.html#a977aa8411429bf4468cff41f6020ea02" title="b43_radio_maskset" alt="" coords="224,371,357,400"/>
+<area shape="rect" href="$phy__common_8c.html#a2d71a0cd69c04c73275668125a89651e" title="b43_radio_set" alt="" coords="240,424,341,453"/>
+<area shape="rect" href="$phy__g_8c.html#a070256ea5337a006d3db2c1b097bd364" title="b43_synth_pu_workaround" alt="" coords="204,528,377,557"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="459,476,549,505"/>
+<area shape="rect" href="$phy__g_8c.html#a654b09574cc82cc107f55a7253d6ffd2" title="radio2050_rfover_val" alt="" coords="220,581,361,611"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="611,109,771,139"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="819,109,883,139"/>
+<area shape="rect" href="$phy__g_8c.html#acb3b7edd4a4c7aa7a635ee4812fd971b" title="channel2freq_bg" alt="" coords="447,529,561,559"/>
+</map>

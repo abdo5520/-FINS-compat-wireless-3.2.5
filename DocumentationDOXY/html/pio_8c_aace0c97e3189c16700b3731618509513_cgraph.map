@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#a054d9edbcc218537d77cafaec03f50e5" title="b43_block_write" alt="" coords="208,5,323,35"/>
+<area shape="rect" href="$pio_8h.html#a18a19ad6c96686d21f3e3243fcec4349" title="b43_piotx_write16" alt="" coords="203,59,328,88"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="376,59,467,88"/>
+</map>

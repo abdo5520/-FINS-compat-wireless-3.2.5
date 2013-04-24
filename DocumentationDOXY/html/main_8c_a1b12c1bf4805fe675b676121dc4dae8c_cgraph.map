@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8c.html#a6bf607f89f6429d1a4a8174b2b7f77a8" title="b43_calculate_link_quality" alt="" coords="221,111,395,140"/>
+<area shape="rect" href="$main_8c.html#aec975028fcda43e3664c660fa79af42b" title="b43_generate_noise_sample" alt="" coords="443,111,629,140"/>
+<area shape="rect" href="$main_8c.html#ae9956c35417e873d337508206492d189" title="b43_jssi_write" alt="" coords="677,59,781,88"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1203,59,1293,88"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="685,163,773,192"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="829,59,952,88"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="1000,5,1155,35"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="1032,59,1123,88"/>
+</map>

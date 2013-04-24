@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$pio_8h.html#a197cf126658f5c549d96787a34da2860" title="b43_piotx_read16" alt="" coords="239,5,361,35"/>
+<area shape="rect" href="$pio_8h.html#adc26fb414c58fff7f9ff8dd70085be18" title="b43_piotx_read32" alt="" coords="239,59,361,88"/>
+<area shape="rect" href="$pio_8h.html#a18a19ad6c96686d21f3e3243fcec4349" title="b43_piotx_write16" alt="" coords="237,112,363,141"/>
+<area shape="rect" href="$pio_8h.html#a59fb43e33c8b80688e73e1db6d2a7953" title="b43_piotx_write32" alt="" coords="237,165,363,195"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="412,5,500,35"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="412,59,500,88"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="411,112,501,141"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="411,165,501,195"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$tables__nphy_8c.html#a2a81a91ae24223624eb236a2889fefbf" title="b43_ntab_write" alt="" coords="233,8,340,37"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="420,59,524,88"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="639,111,727,140"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="243,163,331,192"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="241,216,332,245"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="241,269,332,299"/>
+<area shape="rect" href="$tables__nphy_8c.html#a51bf6c7d871a3c270aada16e22a04421" title="assert_ntab_array_sizes" alt="" coords="391,5,553,35"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="603,57,763,87"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="811,57,875,87"/>
+</map>

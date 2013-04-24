@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" href="$main_8c.html#a042966f7432aa0e7c96a835b319912c2" title="b43_dump_keymemory" alt="" coords="327,633,481,663"/>
+<area shape="rect" href="$main_8c.html#a3f3a1d36e1882927e495fa890efbbe97" title="b43_hf_read" alt="" coords="557,785,648,815"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="752,583,816,612"/>
+<area shape="rect" href="$main_8c.html#abbb7dc97d3d48c3504e1c35b366407ad" title="b43_hf_write" alt="" coords="357,493,451,523"/>
+<area shape="rect" href="$main_8c.html#afb8fd4dbf87bb31c567ff814bd423d7f" title="b43_key_clear" alt="" coords="172,321,276,351"/>
+<area shape="rect" href="$main_8c.html#a41b74db9e7e98dd2d9be2fbf01292f0c" title="b43_key_write" alt="" coords="172,389,276,419"/>
+<area shape="rect" href="$b43_8h.html#a923bed0b5c7caecca6b946a983da8845" title="hw_to_b43_wl" alt="" coords="173,737,275,767"/>
+<area shape="rect" href="$debugfs_8c.html#a2d8cac4c4fae4116d2248d9b5c3a782b" title="b43_debug" alt="" coords="743,529,825,559"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="724,680,844,709"/>
+<area shape="rect" href="$xmit_8h.html#ac60cfecd9f84a5fa74c67a667b308d85" title="b43_new_kidx_api" alt="" coords="907,217,1035,247"/>
+<area shape="rect" href="$main_8c.html#a6c2b7ac9fc93ba27357ae95675b8484a" title="b43_shm_read32" alt="" coords="724,733,844,763"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="927,680,1015,709"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="893,528,1048,557"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1096,476,1187,505"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="927,733,1015,763"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="723,476,845,505"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="925,475,1016,504"/>
+<area shape="rect" href="$main_8c.html#a9eef83eb335b7be483eddef57b3333b5" title="do_key_write" alt="" coords="356,321,452,351"/>
+<area shape="rect" href="$main_8c.html#a424413582f4e1dd5d08fd7b62cadbc4a" title="key_write" alt="" coords="565,217,640,247"/>
+<area shape="rect" href="$main_8c.html#a5fad7679ee73ed3d3792c393b6c25aaf" title="keymac_write" alt="" coords="553,321,652,351"/>
+<area shape="rect" href="$main_8c.html#a7e02161c8c1cefc4b83ddd4c5baf0db5" title="rx_tkip_phase1_write" alt="" coords="531,375,675,404"/>
+<area shape="rect" href="$xmit_8h.html#a74a3337729e40a1708ac1d72ecef1a59" title="b43_kidx_to_fw" alt="" coords="728,217,840,247"/>
+<area shape="rect" href="$main_8c.html#a2141285c33d6611aadb9d64f4f8db894" title="b43_shm_write32" alt="" coords="723,423,845,452"/>
+<area shape="rect" href="$main_8c.html#adb2d09d5180d74a048194743ed67302b" title="b43warn" alt="" coords="369,416,439,445"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="555,428,651,457"/>
+</map>

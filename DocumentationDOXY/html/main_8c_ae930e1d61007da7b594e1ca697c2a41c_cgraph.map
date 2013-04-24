@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#a8ffc594f98434da9340205066a4b188f" title="b43_is_mode" alt="" coords="285,107,384,136"/>
+<area shape="rect" href="$main_8c.html#a9078cc08815f04ffb2ca7d5e7eaf071c" title="b43_mac_enable" alt="" coords="275,160,395,189"/>
+<area shape="rect" href="$main_8c.html#a555504fbafc3537b275e563515f7f6d4" title="b43_mac_suspend" alt="" coords="269,289,400,319"/>
+<area shape="rect" href="$main_8c.html#a90191918e34888ec410e4aefb9a25c6f" title="b43_set_beacon_int" alt="" coords="267,632,403,661"/>
+<area shape="rect" href="$main_8c.html#a5693b305db699aafd86bc60872092144" title="b43_short_slot_timing_disable" alt="" coords="237,867,432,896"/>
+<area shape="rect" href="$main_8c.html#a6dc3e7c2c79eaad1d10f58f5861769c8" title="b43_short_slot_timing_enable" alt="" coords="239,813,431,843"/>
+<area shape="rect" href="$main_8c.html#af2c643f138700115685b99e676ef9814" title="b43_update_basic_rates" alt="" coords="253,760,416,789"/>
+<area shape="rect" href="$main_8c.html#a342abd127734c14121a3e8f768bb1b6d" title="b43_update_templates" alt="" coords="259,920,411,949"/>
+<area shape="rect" href="$main_8c.html#abd3bb2d8f959e9dc026088c6bed944a3" title="b43_write_mac_bssid_templates" alt="" coords="229,552,440,581"/>
+<area shape="rect" href="$b43_8h.html#a923bed0b5c7caecca6b946a983da8845" title="hw_to_b43_wl" alt="" coords="284,973,385,1003"/>
+<area shape="rect" href="$debugfs_8c.html#a2d8cac4c4fae4116d2248d9b5c3a782b" title="b43_debug" alt="" coords="543,80,625,109"/>
+<area shape="rect" href="$main_8c.html#ad37797ca2e138c27c2dde2ffc37677a9" title="b43_power_saving_ctl_bits" alt="" coords="496,187,672,216"/>
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="747,341,835,371"/>
+<area shape="rect" href="$main_8c.html#ac30aab4afe8c188ec821fb432ae2b46f" title="b43_shm_read16" alt="" coords="731,237,851,267"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="1104,368,1195,397"/>
+<area shape="rect" href="$main_8c.html#ae7d6323280005f3298ddcf79752f1e77" title="b43err" alt="" coords="556,133,612,163"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="935,237,1023,267"/>
+<area shape="rect" href="$main_8c.html#a5e11f91bf55c21296bf690fb12e1f660" title="b43_shm_control_word" alt="" coords="901,341,1056,371"/>
+<area shape="rect" href="$main_8c.html#a4b2e67e5bff8c62a114930dff05ad666" title="b43_ratelimit" alt="" coords="743,133,839,163"/>
+<area shape="rect" href="$main_8c.html#a5b89140b570b883ddc5bbb9326327e17" title="b43_time_lock" alt="" coords="532,499,636,528"/>
+<area shape="rect" href="$main_8c.html#a4eaae7fba82c6287dc33d3e47f7cb521" title="b43_time_unlock" alt="" coords="524,445,644,475"/>
+<area shape="rect" href="$b43_8h.html#a0c967641dd56d28ccd302efe6751e037" title="b43_write16" alt="" coords="745,671,836,700"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="552,605,616,635"/>
+<area shape="rect" href="$main_8c.html#ae47c2a5febbbe82d79f21c97015b91a8" title="b43_set_slot_time" alt="" coords="520,1075,648,1104"/>
+<area shape="rect" href="$b43_8h.html#aaea9136ad670401f899f2ea0a5288bf5" title="b43_current_band" alt="" coords="729,1049,852,1079"/>
+<area shape="rect" href="$main_8h.html#a39ad12948444260bb47cac232b54e86d" title="b43_is_cck_rate" alt="" coords="527,971,641,1000"/>
+<area shape="rect" href="$xmit_8c.html#a24cc15752ebf2c2a1d794e5edc2747f3" title="b43_plcp_get_ratecode_cck" alt="" coords="492,864,676,893"/>
+<area shape="rect" href="$xmit_8c.html#ac51df2daff6dbbaeed19eb9f640a86da" title="b43_plcp_get_ratecode_ofdm" alt="" coords="488,917,680,947"/>
+<area shape="rect" href="$main_8c.html#a28f7e4e0e4386f41d555003b22b2775f" title="b43_shm_write16" alt="" coords="523,760,645,789"/>
+<area shape="rect" href="$main_8c.html#a211ef1aeaa1e8d776f1de8eadf411a11" title="b43_macfilter_set" alt="" coords="523,552,645,581"/>
+<area shape="rect" href="$main_8c.html#a0c971b5abd907c5855f4cb0eecb9265d" title="b43_ram_write" alt="" coords="532,392,636,421"/>
+</map>

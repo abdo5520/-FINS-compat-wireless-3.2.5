@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$b43_8h.html#adfd04e75bffd22461c0c7a3eab648ea1" title="b43_read32" alt="" coords="271,5,359,35"/>
+<area shape="rect" href="$main_8c.html#a9b7a0655e92dcfcc79ad3ba3d269084b" title="b43_ssb_wireless_core_reset" alt="" coords="219,59,411,88"/>
+<area shape="rect" href="$b43_8h.html#a44d913e8694345c005f13a9a95040cd9" title="b43_write32" alt="" coords="269,112,360,141"/>
+<area shape="rect" href="$b43_8h.html#ae6ebe261d0b2fea8b83189ca05f19a48" title="b43_device_enable" alt="" coords="460,59,591,88"/>
+</map>

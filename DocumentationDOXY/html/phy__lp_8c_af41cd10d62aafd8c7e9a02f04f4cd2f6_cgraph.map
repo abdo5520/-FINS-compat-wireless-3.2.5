@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" href="$phy__common_8c.html#aabba815f5765fe05a552c6c0cdf1e69b" title="b43_phy_maskset" alt="" coords="745,420,873,449"/>
+<area shape="rect" href="$phy__common_8c.html#a03304a9babb3f6bd671e7675168c6f06" title="b43_phy_read" alt="" coords="924,420,1025,449"/>
+<area shape="rect" href="$phy__lp_8c.html#a71220c70f21317fb3f7e88095d02eb07" title="lpphy_get_bb_mult" alt="" coords="229,529,360,559"/>
+<area shape="rect" href="$phy__lp_8c.html#a523b8ce697e693bd0b9f4fc12499cd2f" title="lpphy_get_tx_gains" alt="" coords="499,9,632,39"/>
+<area shape="rect" href="$phy__lp_8c.html#ac1bbaab508e73a8d02a4df84b55922c7" title="lpphy_papd_cal" alt="" coords="239,636,351,665"/>
+<area shape="rect" href="$phy__lp_8c.html#adfed08e910abd9739908748eca172bb5" title="lpphy_read_tx_pctl_mode_from_hardware" alt="" coords="435,63,696,92"/>
+<area shape="rect" href="$phy__lp_8c.html#a5069ae26dc96ec4524716141b3019a7b" title="lpphy_set_bb_mult" alt="" coords="229,583,360,612"/>
+<area shape="rect" href="$phy__lp_8c.html#a66654a1a95f3d9d1c33bbb56a33b2238" title="lpphy_set_tx_gains" alt="" coords="228,476,361,505"/>
+<area shape="rect" href="$phy__lp_8c.html#ab1d7556f530a3d8553b3c0304de55cae" title="lpphy_set_tx_power_control" alt="" coords="204,271,385,300"/>
+<area shape="rect" href="$phy__common_8c.html#a0388f9e2b9491fcf2212c910ecb68388" title="assert_mac_suspended" alt="" coords="1075,472,1235,501"/>
+<area shape="rect" href="$phy__common_8c.html#a771be8516fddf5dd3f42196ba536739e" title="b43_phy_write" alt="" coords="923,577,1027,607"/>
+<area shape="rect" href="$main_8c.html#ac3164e7d1ba2fbd05fce755cdb232382" title="b43dbg" alt="" coords="1283,472,1347,501"/>
+<area shape="rect" href="$b43_8h.html#aa2589a579b35b2c67a04ce6c6673e241" title="b43_read16" alt="" coords="1111,577,1199,607"/>
+<area shape="rect" href="$tables__lpphy_8c.html#ae2c6277ed827dccee78fa9410e50d09f" title="b43_lptab_read" alt="" coords="755,631,864,660"/>
+<area shape="rect" href="$tables__lpphy_8c.html#a4510b42ad9b05b874ec0bb516cfb1fe2" title="b43_lptab_write" alt="" coords="753,759,865,788"/>
+<area shape="rect" href="$phy__lp_8c.html#aa2ac46731987d02af3d6dc098aad5c87" title="lpphy_enable_tx_gain_override" alt="" coords="465,631,665,660"/>
+<area shape="rect" href="$phy__lp_8c.html#a23bf41fc13e0a112c7cd989627c2e3a6" title="lpphy_get_pa_gain" alt="" coords="745,524,873,553"/>
+<area shape="rect" href="$phy__lp_8c.html#a0f57ad6207dc6441ec6ec28465680527" title="lpphy_set_dac_gain" alt="" coords="497,476,633,505"/>
+<area shape="rect" href="$phy__common_8c.html#ac1f1488d81fb9ba843ec6c2995958452" title="b43_phy_set" alt="" coords="761,577,857,607"/>
+<area shape="rect" href="$phy__common_8c.html#af989c6b9b6c21865492deca5a70754d4" title="b43_phy_mask" alt="" coords="755,367,864,396"/>
+<area shape="rect" href="$phy__lp_8c.html#ace3faccb5a4efe2cc3e2c36e50628a15" title="lpphy_disable_tx_gain_override" alt="" coords="464,217,667,247"/>
+<area shape="rect" href="$phy__lp_8c.html#a653ad8404c35e7ccdd5223d8d3ece066" title="lpphy_write_tx_pctl_mode_to_hardware" alt="" coords="441,271,689,300"/>
+</map>
